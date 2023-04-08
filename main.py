@@ -171,7 +171,7 @@ def AutoFillAnswer():
     print('---5s后将开始答题---请不要操作鼠标---')
     time.sleep(5)
 
-    with open('I love Words/answer.txt', 'r', encoding='utf-8') as A:
+    with open('answer.txt', 'r', encoding='utf-8') as A:
         for i in A:
             answer = i.strip()
             if answer == 'A':
@@ -203,7 +203,7 @@ def AutoFillAnswer():
 def PrintAnswer():
     number = 1
     print('===按下回车键以依次查看答案！===')
-    with open('I love Words/answer.txt', 'r', encoding='utf-8') as A:
+    with open('answer.txt', 'r', encoding='utf-8') as A:
         for i in A:
             if (input() == ''):
                 print('{} '.format(number))
@@ -220,12 +220,12 @@ def translate(word):
 
 def CheckFormat(old_str, new_str):
     file_data = ""
-    with open('I love Words/questions.json', 'r', encoding='utf-8') as old_file:
+    with open('questions.json', 'r', encoding='utf-8') as old_file:
         for i in old_file:
             if old_str in i:
                 i = i.replace(old_str, new_str)
             file_data += i
-    with open('I love Words/questions.json', 'w', encoding='utf-8') as new_file:
+    with open('questions.json', 'w', encoding='utf-8') as new_file:
         new_file.write(file_data)
 
 
@@ -235,7 +235,7 @@ def CheckAnswer(answer):
 
 
 def SaveAnswer(answer):
-    with open('I love Words/answer.txt', 'a', encoding='utf-8') as A:
+    with open('answer.txt', 'a', encoding='utf-8') as A:
         A.write(answer + '\n')
     return 1
 
