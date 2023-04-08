@@ -20,4 +20,4 @@ HDU我爱记单词脚本 [依赖Fiddler/模拟器]
 
 4.在main.py中将三个API的**口令&密钥** 写到正确位置
 
-5.
+5.在FiddlerScript 中搜索change.js中第一句，并把搜索到的函数替换
