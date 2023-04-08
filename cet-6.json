@@ -1,0 +1,5154 @@
+[
+  {
+    "Word": "abnormal",
+    "Mean": "a.不正常的;变态的"
+  },
+  {
+    "Word": "abolish",
+    "Mean": "vt.废除;取消"
+  },
+  {
+    "Word": "abrupt",
+    "Mean": "a.突然的;意外的;唐突的"
+  },
+  {
+    "Word": "absurd",
+    "Mean": "a.不合理的;荒唐的"
+  },
+  {
+    "Word": "abundance",
+    "Mean": "n.丰富;充裕"
+  },
+  {
+    "Word": "academy",
+    "Mean": "n.私立中学;专科院校"
+  },
+  {
+    "Word": "accessory",
+    "Mean": "n.同谋a.附属的"
+  },
+  {
+    "Word": "accommodate",
+    "Mean": "vt.容纳;供应;供给"
+  },
+  {
+    "Word": "accord",
+    "Mean": "vt.一致(~with);给予"
+  },
+  {
+    "Word": "acknowledge",
+    "Mean": "vt.承认;告知收到"
+  },
+  {
+    "Word": "acquaint",
+    "Mean": "vt.使认识;使了解"
+  },
+  {
+    "Word": "acquisition",
+    "Mean": "n.获得;添加的物品"
+  },
+  {
+    "Word": "activate",
+    "Mean": "vt.刺激;使活动"
+  },
+  {
+    "Word": "acute",
+    "Mean": "a.敏锐的"
+  },
+  {
+    "Word": "adhere",
+    "Mean": "vi.(fml)粘附;追随;坚持(~tosth)"
+  },
+  {
+    "Word": "adjacent",
+    "Mean": "a.毗连的;紧接着的"
+  },
+  {
+    "Word": "adjoin",
+    "Mean": "vt.贴近;毗连;靠近"
+  },
+  {
+    "Word": "administer",
+    "Mean": "vt.执行;管理;治理;"
+  },
+  {
+    "Word": "adolescent",
+    "Mean": "a.青春期的;青年的n.青少年"
+  },
+  {
+    "Word": "advent",
+    "Mean": "n.来到;来临"
+  },
+  {
+    "Word": "adverse",
+    "Mean": "a.不利的;敌对的;相反的;逆的"
+  },
+  {
+    "Word": "advertise",
+    "Mean": "vt.通知vi.登广告"
+  },
+  {
+    "Word": "advocate",
+    "Mean": "n.辩护者vt.拥护"
+  },
+  {
+    "Word": "aerial",
+    "Mean": "a.空气的;航空的"
+  },
+  {
+    "Word": "aesthetic",
+    "Mean": "a.美学的;审美的;有美感"
+  },
+  {
+    "Word": "affiliate",
+    "Mean": "vt.附属;接纳vi.有关"
+  },
+  {
+    "Word": "affirm",
+    "Mean": "vt.断言;批准;证实"
+  },
+  {
+    "Word": "afflict",
+    "Mean": "vt.使痛苦;折磨"
+  },
+  {
+    "Word": "agenda",
+    "Mean": "n.议程;应办事项"
+  },
+  {
+    "Word": "aggravate",
+    "Mean": "vt.使恶化;使更加重"
+  },
+  {
+    "Word": "agitation",
+    "Mean": "n.鼓动;煸动;搅动"
+  },
+  {
+    "Word": "agony",
+    "Mean": "n.极度痛苦"
+  },
+  {
+    "Word": "agreeable",
+    "Mean": "a.惬意的;同意的"
+  },
+  {
+    "Word": "alert",
+    "Mean": "a.警惕的;活跃的"
+  },
+  {
+    "Word": "alien",
+    "Mean": "a.外国的n.外国人"
+  },
+  {
+    "Word": "allege",
+    "Mean": "vt.宣称;申述;主张;断言"
+  },
+  {
+    "Word": "alleviate",
+    "Mean": "vt.减轻;使缓和"
+  },
+  {
+    "Word": "alliance",
+    "Mean": "n.联盟;联合"
+  },
+  {
+    "Word": "allocate",
+    "Mean": "vt.分派;分配"
+  },
+  {
+    "Word": "allowance",
+    "Mean": "n津贴;补助费"
+  },
+  {
+    "Word": "ally",
+    "Mean": "n.盟国;同盟者;伙伴"
+  },
+  {
+    "Word": "alongside",
+    "Mean": "prep.在...旁边"
+  },
+  {
+    "Word": "alternate",
+    "Mean": "vt.使交替a.交替的"
+  },
+  {
+    "Word": "amateur",
+    "Mean": "a.业余的n.业余爱好者"
+  },
+  {
+    "Word": "ambassador",
+    "Mean": "n.大使;使节"
+  },
+  {
+    "Word": "ambiguous",
+    "Mean": "a.模棱两可的;分歧的"
+  },
+  {
+    "Word": "ambitious",
+    "Mean": "a.有雄心的;热望的"
+  },
+  {
+    "Word": "amend",
+    "Mean": "vt.修正;改善;vi.改过自新"
+  },
+  {
+    "Word": "amends",
+    "Mean": "n.赔偿"
+  },
+  {
+    "Word": "ample",
+    "Mean": "a.足够的;宽敞的"
+  },
+  {
+    "Word": "amplify",
+    "Mean": "vt.放大;增强;扩大"
+  },
+  {
+    "Word": "analogy",
+    "Mean": "n.相似;类似;比拟"
+  },
+  {
+    "Word": "analytic",
+    "Mean": "a.分析的;解析的"
+  },
+  {
+    "Word": "analytical",
+    "Mean": "a.分析的;解析的"
+  },
+  {
+    "Word": "angel",
+    "Mean": "n.天使;神差;安琪儿"
+  },
+  {
+    "Word": "anniversary",
+    "Mean": "n.周年纪念日"
+  },
+  {
+    "Word": "anonymous",
+    "Mean": "a.匿名的"
+  },
+  {
+    "Word": "antarctic",
+    "Mean": "a.南极的n.南极区"
+  },
+  {
+    "Word": "antique",
+    "Mean": "a.古代的n.古物"
+  },
+  {
+    "Word": "appendix",
+    "Mean": "n.附录;附属物;阑尾"
+  },
+  {
+    "Word": "applaud",
+    "Mean": "vt.喝彩;欢呼vi.欢呼"
+  },
+  {
+    "Word": "appraisal",
+    "Mean": "n.评价;估价;鉴定"
+  },
+  {
+    "Word": "appreciable",
+    "Mean": "a.可估价的;可察觉的"
+  },
+  {
+    "Word": "apprehension",
+    "Mean": "n.理解;忧惧;逮捕"
+  },
+  {
+    "Word": "apt",
+    "Mean": "a.恰当的;聪明的"
+  },
+  {
+    "Word": "arc",
+    "Mean": "n.弧;弓形物;弧光"
+  },
+  {
+    "Word": "arch",
+    "Mean": "n.拱门vt.用拱连接"
+  },
+  {
+    "Word": "architect",
+    "Mean": "n.建筑师;创造者"
+  },
+  {
+    "Word": "arctic",
+    "Mean": "a.北极的n.北极"
+  },
+  {
+    "Word": "array",
+    "Mean": "vt.装扮n.队列;排列"
+  },
+  {
+    "Word": "articulate",
+    "Mean": "a.发音清晰的;听得懂的"
+  },
+  {
+    "Word": "ascend",
+    "Mean": "vi.攀登;登高;追溯"
+  },
+  {
+    "Word": "ascertain",
+    "Mean": "vt.查明;确定;弄清"
+  },
+  {
+    "Word": "ascribe",
+    "Mean": "vt.把...归于"
+  },
+  {
+    "Word": "assault",
+    "Mean": "vt.袭击;殴打n.攻击"
+  },
+  {
+    "Word": "assert",
+    "Mean": "vt.断言;宣称;维护"
+  },
+  {
+    "Word": "asset",
+    "Mean": "n.资产;有用的东西"
+  },
+  {
+    "Word": "assimilate",
+    "Mean": "vt.使同化;吸收;比较"
+  },
+  {
+    "Word": "assumption",
+    "Mean": "n.采取;假定;傲慢"
+  },
+  {
+    "Word": "assurance",
+    "Mean": "n.保证;财产转让书"
+  },
+  {
+    "Word": "astronomy",
+    "Mean": "n.天文学"
+  },
+  {
+    "Word": "athlete",
+    "Mean": "n.运动员;田径运动员"
+  },
+  {
+    "Word": "attendance",
+    "Mean": "n.到场;出席人数"
+  },
+  {
+    "Word": "attendant",
+    "Mean": "n.侍者;护理人员"
+  },
+  {
+    "Word": "attorney",
+    "Mean": "n.代理人;辩护律师"
+  },
+  {
+    "Word": "augment",
+    "Mean": "vt.vi.n.增加;增大"
+  },
+  {
+    "Word": "authentic",
+    "Mean": "a.真实的;可靠的;可信的"
+  },
+  {
+    "Word": "authoritative",
+    "Mean": "a.权威的;有权威的;命令式的"
+  },
+  {
+    "Word": "authorize",
+    "Mean": "vt.授权与;批准;委托代替"
+  },
+  {
+    "Word": "automation",
+    "Mean": "n.自动;自动化"
+  },
+  {
+    "Word": "autonomy",
+    "Mean": "n.自治"
+  },
+  {
+    "Word": "avail",
+    "Mean": "vt.有益于n.效用"
+  },
+  {
+    "Word": "avert",
+    "Mean": "vt.转开;避免;防止"
+  },
+  {
+    "Word": "aviation",
+    "Mean": "n.飞行"
+  },
+  {
+    "Word": "axis",
+    "Mean": "n.轴;轴线;第二颈椎"
+  },
+  {
+    "Word": "bachelor",
+    "Mean": "n.未婚男子;学士"
+  },
+  {
+    "Word": "badge",
+    "Mean": "n.徽章;像章;标志"
+  },
+  {
+    "Word": "baffle",
+    "Mean": "vt.使挫折n.迷惑"
+  },
+  {
+    "Word": "bald",
+    "Mean": "a.秃头的;无毛的"
+  },
+  {
+    "Word": "ballet",
+    "Mean": "n.芭蕾舞;舞剧"
+  },
+  {
+    "Word": "ban",
+    "Mean": "n.禁令vt.禁止;取缔"
+  },
+  {
+    "Word": "bandage",
+    "Mean": "n.绷带;包带"
+  },
+  {
+    "Word": "bankrupt",
+    "Mean": "a.破产的vt.使破产"
+  },
+  {
+    "Word": "barely",
+    "Mean": "ad.仅仅;勉强"
+  },
+  {
+    "Word": "barren",
+    "Mean": "a.贫瘠的;不妊的"
+  },
+  {
+    "Word": "basement",
+    "Mean": "n.地下室;地窖;底层"
+  },
+  {
+    "Word": "batch",
+    "Mean": "n.一组;分批;成批;批"
+  },
+  {
+    "Word": "bearing",
+    "Mean": "n.支承;忍受;方位"
+  },
+  {
+    "Word": "beforehand",
+    "Mean": "ad.预先;提前地"
+  },
+  {
+    "Word": "betray",
+    "Mean": "vt.背叛;辜负;泄漏"
+  },
+  {
+    "Word": "bewilder",
+    "Mean": "vt.迷惑;把...弄糊涂"
+  },
+  {
+    "Word": "bias",
+    "Mean": "n.偏见;偏袒;斜线vt.使有偏见"
+  },
+  {
+    "Word": "bibliography",
+    "Mean": "n.参考书目"
+  },
+  {
+    "Word": "bid",
+    "Mean": "n.出价vt.vi.命令;吩咐;投标"
+  },
+  {
+    "Word": "biography",
+    "Mean": "n.传记"
+  },
+  {
+    "Word": "bizarre",
+    "Mean": "a.奇异的"
+  },
+  {
+    "Word": "blaze",
+    "Mean": "n.火;闪光vi.燃烧"
+  },
+  {
+    "Word": "bleak",
+    "Mean": "a.萧瑟的;苍白的;荒凉的"
+  },
+  {
+    "Word": "bless",
+    "Mean": "vt.为...祝福"
+  },
+  {
+    "Word": "blossom",
+    "Mean": "n.花;开花vi.开花"
+  },
+  {
+    "Word": "blunder",
+    "Mean": "vi.犯大错n.大错"
+  },
+  {
+    "Word": "blunt",
+    "Mean": "a.钝的;坦率的;麻痹的"
+  },
+  {
+    "Word": "blush",
+    "Mean": "vi.脸红;害臊n.脸红"
+  },
+  {
+    "Word": "bonus",
+    "Mean": "n.奖金;红利"
+  },
+  {
+    "Word": "boom",
+    "Mean": "vi.n.急速发展;繁荣;隆隆响"
+  },
+  {
+    "Word": "boost",
+    "Mean": "vt.n.推进;支援;吹捧"
+  },
+  {
+    "Word": "boycott",
+    "Mean": "vt.&n.联合抵制"
+  },
+  {
+    "Word": "brace",
+    "Mean": "n.支柱vt.拉紧;撑牢"
+  },
+  {
+    "Word": "bracket",
+    "Mean": "n.支架;括弧;托架"
+  },
+  {
+    "Word": "breakdown",
+    "Mean": "n.崩溃;倒塌;失败"
+  },
+  {
+    "Word": "bribe",
+    "Mean": "n.贿赂vt.向...行贿"
+  },
+  {
+    "Word": "brisk",
+    "Mean": "a.活泼的;清新的"
+  },
+  {
+    "Word": "brittle",
+    "Mean": "a.脆的;易损坏的"
+  },
+  {
+    "Word": "bronze",
+    "Mean": "n.青铜色"
+  },
+  {
+    "Word": "brood",
+    "Mean": "n.同窝幼鸟vt.孵(蛋)"
+  },
+  {
+    "Word": "bruise",
+    "Mean": "n.青肿;伤痕;擦伤"
+  },
+  {
+    "Word": "brutal",
+    "Mean": "a.残忍的;野蛮的;不讲理的"
+  },
+  {
+    "Word": "bud",
+    "Mean": "n.芽;萌芽;蓓蕾"
+  },
+  {
+    "Word": "budget",
+    "Mean": "n.预算;预算案"
+  },
+  {
+    "Word": "buffer",
+    "Mean": "n.缓冲;缓冲区vt.缓冲"
+  },
+  {
+    "Word": "bug",
+    "Mean": "n.虫子;臭虫"
+  },
+  {
+    "Word": "bull",
+    "Mean": "n.买空的证券投机商"
+  },
+  {
+    "Word": "bulletin",
+    "Mean": "告示;公告;公报"
+  },
+  {
+    "Word": "bump",
+    "Mean": "vt.撞击vi.撞n.肿块"
+  },
+  {
+    "Word": "bunch",
+    "Mean": "n.束;球;串;一群"
+  },
+  {
+    "Word": "bureaucracy",
+    "Mean": "n.官僚主义;官僚机构"
+  },
+  {
+    "Word": "burial",
+    "Mean": "n.安葬;埋葬;埋藏"
+  },
+  {
+    "Word": "buzz",
+    "Mean": "vi.(蜂等)嗡嗡叫"
+  },
+  {
+    "Word": "bypass",
+    "Mean": "n.旁通管vt.绕过"
+  },
+  {
+    "Word": "cafeteria",
+    "Mean": "n.自助食堂"
+  },
+  {
+    "Word": "canvas",
+    "Mean": "n.粗帆布;一块油画布"
+  },
+  {
+    "Word": "capsule",
+    "Mean": "n.胶囊;瓶帽;太空舱"
+  },
+  {
+    "Word": "captive",
+    "Mean": "n.俘虏;被监禁的人"
+  },
+  {
+    "Word": "cartoon",
+    "Mean": "n.漫画;动画片"
+  },
+  {
+    "Word": "carve",
+    "Mean": "vt.刻;雕刻;切开"
+  },
+  {
+    "Word": "casualty",
+    "Mean": "n.伤亡;受害者;死伤者;伤亡人员"
+  },
+  {
+    "Word": "category",
+    "Mean": "n.种类;类目;范畴"
+  },
+  {
+    "Word": "cater",
+    "Mean": "vi.迎合;投合"
+  },
+  {
+    "Word": "cathedral",
+    "Mean": "n.总教堂;大教堂"
+  },
+  {
+    "Word": "catholic",
+    "Mean": "a.天主教的n.天主教徒"
+  },
+  {
+    "Word": "caution",
+    "Mean": "n.小心;告诫vt.警告"
+  },
+  {
+    "Word": "cautious",
+    "Mean": "a.小心的;谨慎的"
+  },
+  {
+    "Word": "cavity",
+    "Mean": "n.洞;穴;空腔"
+  },
+  {
+    "Word": "cellar",
+    "Mean": "n.地窑;地下室"
+  },
+  {
+    "Word": "census",
+    "Mean": "n.户口普查vt.统计调查"
+  },
+  {
+    "Word": "ceramic",
+    "Mean": "a.陶器的n.陶瓷制品"
+  },
+  {
+    "Word": "cereal",
+    "Mean": "n.谷类;五谷;禾谷"
+  },
+  {
+    "Word": "certainty",
+    "Mean": "n.确实性;确信;确实"
+  },
+  {
+    "Word": "certify",
+    "Mean": "vt.vi.证明;保证"
+  },
+  {
+    "Word": "chaos",
+    "Mean": "n.大混乱;混沌"
+  },
+  {
+    "Word": "characterize",
+    "Mean": "vt.表示...的特性"
+  },
+  {
+    "Word": "charity",
+    "Mean": "n.施舍;慈善事业"
+  },
+  {
+    "Word": "charm",
+    "Mean": "n.魅力;妩媚vi.迷人"
+  },
+  {
+    "Word": "charter",
+    "Mean": "vt.租n.宪章;契据"
+  },
+  {
+    "Word": "chat",
+    "Mean": "n.闲谈vi.闲谈;聊天"
+  },
+  {
+    "Word": "cherish",
+    "Mean": "vt.珍爱;怀有(感情)"
+  },
+  {
+    "Word": "chip",
+    "Mean": "n.薄片;碎片"
+  },
+  {
+    "Word": "chord",
+    "Mean": "n.(乐器的)弦vi.协调"
+  },
+  {
+    "Word": "chorus",
+    "Mean": "vt.&vi.合唱"
+  },
+  {
+    "Word": "chronic",
+    "Mean": "a.慢性的;习惯性的n.慢性病患者"
+  },
+  {
+    "Word": "circulation",
+    "Mean": "n.循环;(货币等)流通"
+  },
+  {
+    "Word": "eater",
+    "Mean": "n.食量大的人"
+  },
+  {
+    "Word": "circus",
+    "Mean": "n.马戏;马戏团"
+  },
+  {
+    "Word": "cite",
+    "Mean": "vt.引用;引证;举例"
+  },
+  {
+    "Word": "civilian",
+    "Mean": "n.平民a.平民的"
+  },
+  {
+    "Word": "clamp",
+    "Mean": "n.夹子;vt.夹住;夹紧"
+  },
+  {
+    "Word": "clarity",
+    "Mean": "n.清楚;透明"
+  },
+  {
+    "Word": "clash",
+    "Mean": "n.碰撞声;抵触;冲突"
+  },
+  {
+    "Word": "clasp",
+    "Mean": "n.扣子;钩子;别针"
+  },
+  {
+    "Word": "classic",
+    "Mean": "n.名著a.不朽的"
+  },
+  {
+    "Word": "clause",
+    "Mean": "n.子句;条款"
+  },
+  {
+    "Word": "clearance",
+    "Mean": "n.清除;解除;间隙"
+  },
+  {
+    "Word": "client",
+    "Mean": "n.顾客;诉讼委托人"
+  },
+  {
+    "Word": "climax",
+    "Mean": "n.顶点;高潮"
+  },
+  {
+    "Word": "cling",
+    "Mean": "vi.粘住;依附;坚持"
+  },
+  {
+    "Word": "clinic",
+    "Mean": "n.诊所;医务室;会诊"
+  },
+  {
+    "Word": "clip",
+    "Mean": "vt.剪;剪辑报刊"
+  },
+  {
+    "Word": "clockwise",
+    "Mean": "a.&ad.顺时针方向转的"
+  },
+  {
+    "Word": "closet",
+    "Mean": "n.小房间;壁碗橱"
+  },
+  {
+    "Word": "cluster",
+    "Mean": "n.一串vt.使成群"
+  },
+  {
+    "Word": "clutch",
+    "Mean": "vt.抓住vi.掌握;攫"
+  },
+  {
+    "Word": "coherent",
+    "Mean": "a.粘着的;紧凑的"
+  },
+  {
+    "Word": "coincide",
+    "Mean": "vi.相符合;相巧合"
+  },
+  {
+    "Word": "coincidence",
+    "Mean": "n.巧合;同时发生"
+  },
+  {
+    "Word": "collaboration",
+    "Mean": "n.合作;通敌"
+  },
+  {
+    "Word": "collide",
+    "Mean": "vi.碰撞;冲突;抵触"
+  },
+  {
+    "Word": "colonial",
+    "Mean": "a.殖民地的;殖民的"
+  },
+  {
+    "Word": "combat",
+    "Mean": "vt.跟...战斗vi.格斗"
+  },
+  {
+    "Word": "comedy",
+    "Mean": "n.喜剧;喜剧场面"
+  },
+  {
+    "Word": "comet",
+    "Mean": "n.慧星"
+  },
+  {
+    "Word": "commemorate",
+    "Mean": "vt.纪念"
+  },
+  {
+    "Word": "commence",
+    "Mean": "vt.开始vi.获得学位"
+  },
+  {
+    "Word": "commend",
+    "Mean": "vt.称赞;表扬;推荐"
+  },
+  {
+    "Word": "commentary",
+    "Mean": "n.注释;评论;批评"
+  },
+  {
+    "Word": "commitment",
+    "Mean": "n.委托;承担义务;赞助"
+  },
+  {
+    "Word": "commodity",
+    "Mean": "n.日用品;商品;物品"
+  },
+  {
+    "Word": "commonplace",
+    "Mean": "a.平凡的n.平常话"
+  },
+  {
+    "Word": "commonwealth",
+    "Mean": "n.共和国;联邦"
+  },
+  {
+    "Word": "commute",
+    "Mean": "vt.交换;兑换;经常来往;通勤"
+  },
+  {
+    "Word": "compact",
+    "Mean": "a.紧密的vt.使紧凑"
+  },
+  {
+    "Word": "comparable",
+    "Mean": "a.可比较的;类似的"
+  },
+  {
+    "Word": "compartment",
+    "Mean": "n.间隔;个别室;车厢"
+  },
+  {
+    "Word": "compatible",
+    "Mean": "a.一致的;兼容制的"
+  },
+  {
+    "Word": "compensate",
+    "Mean": "vt.&vi.补偿;赔偿"
+  },
+  {
+    "Word": "competence",
+    "Mean": "n.胜任;资格;能力"
+  },
+  {
+    "Word": "competitive",
+    "Mean": "a.竞争的;比赛的"
+  },
+  {
+    "Word": "compile",
+    "Mean": "vt.编辑;编制;搜集"
+  },
+  {
+    "Word": "complement",
+    "Mean": "vt.补充n.补足(物)"
+  },
+  {
+    "Word": "complication",
+    "Mean": "n.复杂;混乱;并发症"
+  },
+  {
+    "Word": "compliment",
+    "Mean": "n.问候vt.赞美;祝贺"
+  },
+  {
+    "Word": "comply",
+    "Mean": "vi.应允;遵照;照做"
+  },
+  {
+    "Word": "composite",
+    "Mean": "a.合成的n.合成物"
+  },
+  {
+    "Word": "compulsory",
+    "Mean": "a.强迫的;义务的"
+  },
+  {
+    "Word": "concede",
+    "Mean": "vt.承认;退让vi.让步"
+  },
+  {
+    "Word": "conceive",
+    "Mean": "vt.设想;以为;怀孕"
+  },
+  {
+    "Word": "conception",
+    "Mean": "n.概念;观念;想法"
+  },
+  {
+    "Word": "concession",
+    "Mean": "n.让步;迁就"
+  },
+  {
+    "Word": "concise",
+    "Mean": "a.简洁的;简明的"
+  },
+  {
+    "Word": "confer",
+    "Mean": "vt.赠予;协议vi.协商"
+  },
+  {
+    "Word": "confidential",
+    "Mean": "a.秘密的;亲信的"
+  },
+  {
+    "Word": "configuration",
+    "Mean": "n.结构;配置;形态"
+  },
+  {
+    "Word": "conform",
+    "Mean": "vt.使遵守vi.一致"
+  },
+  {
+    "Word": "confront",
+    "Mean": "vt.使面对;使对证"
+  },
+  {
+    "Word": "confusion",
+    "Mean": "n.混乱;骚乱;混淆"
+  },
+  {
+    "Word": "conscientious",
+    "Mean": "a.本着良心的;负责的"
+  },
+  {
+    "Word": "consecutive",
+    "Mean": "a.连续;联贯的;始的"
+  },
+  {
+    "Word": "consensus",
+    "Mean": "n.一致"
+  },
+  {
+    "Word": "consequent",
+    "Mean": "a.作为结果的;必然的"
+  },
+  {
+    "Word": "conserve",
+    "Mean": "vt.保存;保全n.蜜饯;果酱"
+  },
+  {
+    "Word": "consolidate",
+    "Mean": "vt.巩固vi.合并"
+  },
+  {
+    "Word": "conspicuous",
+    "Mean": "a.显著的;显眼的;出众的"
+  },
+  {
+    "Word": "constituent",
+    "Mean": "a.形成的n.选民"
+  },
+  {
+    "Word": "constrain",
+    "Mean": "vt.强迫;勉强;驱使"
+  },
+  {
+    "Word": "consultant",
+    "Mean": "n.顾问;商议者"
+  },
+  {
+    "Word": "consumer",
+    "Mean": "n.消费者;用户"
+  },
+  {
+    "Word": "contaminate",
+    "Mean": "vt.弄脏;毒害;传染"
+  },
+  {
+    "Word": "contemplate",
+    "Mean": "vt.注视;沉思;打算vi.冥思苦想"
+  },
+  {
+    "Word": "contempt",
+    "Mean": "n.轻蔑;藐视"
+  },
+  {
+    "Word": "contend",
+    "Mean": "vi.竞争vt.坚决主张"
+  },
+  {
+    "Word": "context",
+    "Mean": "n.上下文;来龙去脉"
+  },
+  {
+    "Word": "contradict",
+    "Mean": "vt.反驳;否认"
+  },
+  {
+    "Word": "contribution",
+    "Mean": "n.捐助;捐助之物;贡献"
+  },
+  {
+    "Word": "contrive",
+    "Mean": "vt.vi.发明;设计;图谋"
+  },
+  {
+    "Word": "controversial",
+    "Mean": "a.争论的;有争议的;被议论的;有争论的"
+  },
+  {
+    "Word": "controversy",
+    "Mean": "n.争论;辩论;争吵"
+  },
+  {
+    "Word": "converge",
+    "Mean": "vi.聚合;集中于一点"
+  },
+  {
+    "Word": "convict",
+    "Mean": "n.囚犯;罪犯vt.宣告有罪"
+  },
+  {
+    "Word": "conviction",
+    "Mean": "n.确信;信服;深信"
+  },
+  {
+    "Word": "cooperative",
+    "Mean": "a.合作的n.合作社"
+  },
+  {
+    "Word": "cordial",
+    "Mean": "a.真诚的;诚恳的"
+  },
+  {
+    "Word": "corporate",
+    "Mean": "n.组织"
+  },
+  {
+    "Word": "corps",
+    "Mean": "n.军团;队;团;兵种"
+  },
+  {
+    "Word": "correlate",
+    "Mean": "n.互相关联的事物"
+  },
+  {
+    "Word": "correspondence",
+    "Mean": "n.通信;符合;对应;相关，相似"
+  },
+  {
+    "Word": "correspondent",
+    "Mean": "n.通信者;通讯员"
+  },
+  {
+    "Word": "corrode",
+    "Mean": "vt.vi腐蚀;侵蚀;破坏"
+  },
+  {
+    "Word": "corrupt",
+    "Mean": "vt.贿赂a.腐败的"
+  },
+  {
+    "Word": "cosmic",
+    "Mean": "a.宇宙的;广大无边的"
+  },
+  {
+    "Word": "costume",
+    "Mean": "n.装束;服装;戏服"
+  },
+  {
+    "Word": "couch",
+    "Mean": "n.睡椅;长沙发椅"
+  },
+  {
+    "Word": "counsel",
+    "Mean": "n.商议;忠告;律师"
+  },
+  {
+    "Word": "counterpart",
+    "Mean": "n.副;复本;配对物;相应物"
+  },
+  {
+    "Word": "courtesy",
+    "Mean": "n.礼貌;谦恭;请安"
+  },
+  {
+    "Word": "coward",
+    "Mean": "a.懦怯的;胆小的"
+  },
+  {
+    "Word": "cradle",
+    "Mean": "n.摇篮;发源地"
+  },
+  {
+    "Word": "creation",
+    "Mean": "n.创造;创作物;发明"
+  },
+  {
+    "Word": "cripple",
+    "Mean": "n.跛子;残废的人"
+  },
+  {
+    "Word": "crisp",
+    "Mean": "a.脆的;卷曲的"
+  },
+  {
+    "Word": "criterion",
+    "Mean": "n.标准;准则;尺度"
+  },
+  {
+    "Word": "crucial",
+    "Mean": "a.决定性的;重要的;严厉的6"
+  },
+  {
+    "Word": "cruise",
+    "Mean": "vi.巡航vt.巡航于..."
+  },
+  {
+    "Word": "cue",
+    "Mean": "n.开端;线索;发辫;长队"
+  },
+  {
+    "Word": "culminate",
+    "Mean": "vi.到绝顶;到达极点;高潮;达到极点"
+  },
+  {
+    "Word": "cumulative",
+    "Mean": "a.累积的"
+  },
+  {
+    "Word": "curb",
+    "Mean": "n.抑制;勒马绳vt.抑制;束缚"
+  },
+  {
+    "Word": "curt",
+    "Mean": "a.简略的;简短的;生硬的"
+  },
+  {
+    "Word": "currency",
+    "Mean": "n.通货;通用;市价"
+  },
+  {
+    "Word": "curriculum",
+    "Mean": "n.课程"
+  },
+  {
+    "Word": "customary",
+    "Mean": "a.通常的;照惯例的"
+  },
+  {
+    "Word": "cylinder",
+    "Mean": "n.圆筒;柱(面);汽缸"
+  },
+  {
+    "Word": "cynical",
+    "Mean": "a.愤世嫉俗的;讽刺的;冷嘲的"
+  },
+  {
+    "Word": "damn",
+    "Mean": "vt.诅咒n.诅咒;丝毫"
+  },
+  {
+    "Word": "dazzle",
+    "Mean": "vt.&vi.炫耀;迷惑"
+  },
+  {
+    "Word": "deadly",
+    "Mean": "a.致命的;死一般的"
+  },
+  {
+    "Word": "decent",
+    "Mean": "a.正派的;体面的"
+  },
+  {
+    "Word": "decimal",
+    "Mean": "a.小数的;十进制的"
+  },
+  {
+    "Word": "decisive",
+    "Mean": "a.决定性的;果断的"
+  },
+  {
+    "Word": "declaration",
+    "Mean": "n.宣布;宣言;申诉"
+  },
+  {
+    "Word": "decline",
+    "Mean": "vt.下倾;偏斜;衰退"
+  },
+  {
+    "Word": "dedicate",
+    "Mean": "vt.奉献;献身"
+  },
+  {
+    "Word": "deem",
+    "Mean": "vt.认为;相信vi.想"
+  },
+  {
+    "Word": "deficiency",
+    "Mean": "n.缺乏;不足之数"
+  },
+  {
+    "Word": "deficit",
+    "Mean": "n.赤字;不足额"
+  },
+  {
+    "Word": "defy",
+    "Mean": "vt.向...挑战;蔑视"
+  },
+  {
+    "Word": "degenerate",
+    "Mean": "a.堕落的vi.vt.(使)变质;(使)退化"
+  },
+  {
+    "Word": "degrade",
+    "Mean": "vt.使降给;使堕落"
+  },
+  {
+    "Word": "delegate",
+    "Mean": "n.代表;委员;特派员"
+  },
+  {
+    "Word": "deliberate",
+    "Mean": "a.深思熟虑的;审慎的"
+  },
+  {
+    "Word": "denial",
+    "Mean": "n.否定;拒绝相信"
+  },
+  {
+    "Word": "denote",
+    "Mean": "vt.指示;意味着"
+  },
+  {
+    "Word": "denounce",
+    "Mean": "vt.谴责;声讨;告发"
+  },
+  {
+    "Word": "dentist",
+    "Mean": "n.牙科医生"
+  },
+  {
+    "Word": "depict",
+    "Mean": "vt.描述;描写"
+  },
+  {
+    "Word": "depression",
+    "Mean": "n.消沉;不景气萧条期"
+  },
+  {
+    "Word": "deprive",
+    "Mean": "vt.夺去;使(人)失去"
+  },
+  {
+    "Word": "depute",
+    "Mean": "vt.指定代理人;委任"
+  },
+  {
+    "Word": "descendant",
+    "Mean": "n.子孙;后裔;弟子"
+  },
+  {
+    "Word": "descent",
+    "Mean": "n.下降;出身;斜坡"
+  },
+  {
+    "Word": "designate",
+    "Mean": "vt.指出;指示;指定"
+  },
+  {
+    "Word": "despatch",
+    "Mean": "vt.vi.n.派遣"
+  },
+  {
+    "Word": "despise",
+    "Mean": "vt.鄙视;蔑视"
+  },
+  {
+    "Word": "destined",
+    "Mean": "a.(由神、命运)预定的;注定的"
+  },
+  {
+    "Word": "destiny",
+    "Mean": "n.命运;定数"
+  },
+  {
+    "Word": "destructive",
+    "Mean": "a.破坏(性)的;危害的"
+  },
+  {
+    "Word": "detach",
+    "Mean": "vt.分开;派遣(军队)"
+  },
+  {
+    "Word": "detective",
+    "Mean": "n.侦探;密探"
+  },
+  {
+    "Word": "deteriorate",
+    "Mean": "vt.vi.(使)恶化"
+  },
+  {
+    "Word": "deviate",
+    "Mean": "vt.(使)背离;偏离"
+  },
+  {
+    "Word": "diagnose",
+    "Mean": "vt.诊断(疾病)"
+  },
+  {
+    "Word": "diet",
+    "Mean": "n.饮食;食物"
+  },
+  {
+    "Word": "differentiate",
+    "Mean": "vt.vi.区别;区分"
+  },
+  {
+    "Word": "diffuse",
+    "Mean": "vt.vi.散播;传播a.散开的;弥漫的"
+  },
+  {
+    "Word": "dignity",
+    "Mean": "a.尊贵;(举止)庄严"
+  },
+  {
+    "Word": "dilemma",
+    "Mean": "n.困境;进退两难的局面"
+  },
+  {
+    "Word": "dilute",
+    "Mean": "vt.冲淡;稀释a.淡的;稀释的"
+  },
+  {
+    "Word": "diminish",
+    "Mean": "vt.减少;减小;递减"
+  },
+  {
+    "Word": "dine",
+    "Mean": "vi.吃饭vt.宴请"
+  },
+  {
+    "Word": "diploma",
+    "Mean": "n.毕业文凭;学位证书"
+  },
+  {
+    "Word": "diplomatic",
+    "Mean": "a.外交的;有策略的"
+  },
+  {
+    "Word": "directory",
+    "Mean": "n.姓名地址录;董事会"
+  },
+  {
+    "Word": "disable",
+    "Mean": "vt.使无能;使伤残"
+  },
+  {
+    "Word": "disastrous",
+    "Mean": "a.灾难性的;悲惨的"
+  },
+  {
+    "Word": "discern",
+    "Mean": "vt.看出;辨出;辨别"
+  },
+  {
+    "Word": "disclose",
+    "Mean": "vt.揭开;揭发;透露"
+  },
+  {
+    "Word": "discount",
+    "Mean": "n.折扣;打折扣卖"
+  },
+  {
+    "Word": "discrepancy",
+    "Mean": "n.相差;差异;差别"
+  },
+  {
+    "Word": "discrete",
+    "Mean": "a.不连续的;离散的"
+  },
+  {
+    "Word": "discriminate",
+    "Mean": "vt.vi.区别对待;歧视"
+  },
+  {
+    "Word": "disguise",
+    "Mean": "vi.隐瞒;掩埋n.假装"
+  },
+  {
+    "Word": "dismay",
+    "Mean": "n.惊慌;沮丧;灰心"
+  },
+  {
+    "Word": "dispatch",
+    "Mean": "vt.派遣;调度n.急件"
+  },
+  {
+    "Word": "disperse",
+    "Mean": "vt.(使)分散;驱散"
+  },
+  {
+    "Word": "displace",
+    "Mean": "vt.移置;取代;置换"
+  },
+  {
+    "Word": "disposition",
+    "Mean": "n.性情;处置;处理;布置"
+  },
+  {
+    "Word": "disregard",
+    "Mean": "vt.不管;不顾n.不管"
+  },
+  {
+    "Word": "disrupt",
+    "Mean": "a.分裂的;分散的vt.使分裂;瓦解"
+  },
+  {
+    "Word": "dissipate",
+    "Mean": "vt.驱散;浪费vi.消散"
+  },
+  {
+    "Word": "distil",
+    "Mean": "v.蒸馏;提取....的精华"
+  },
+  {
+    "Word": "distort",
+    "Mean": "vt.歪曲;曲解;扭曲"
+  },
+  {
+    "Word": "distract",
+    "Mean": "vt.分散(心思);打扰"
+  },
+  {
+    "Word": "disturbance",
+    "Mean": "n.动乱;干扰;侵犯"
+  },
+  {
+    "Word": "diversion",
+    "Mean": "n.转移;改道;娱乐"
+  },
+  {
+    "Word": "divert",
+    "Mean": "vt.使转向vi.转移"
+  },
+  {
+    "Word": "divine",
+    "Mean": "a.神的;敬神的"
+  },
+  {
+    "Word": "dizzy",
+    "Mean": "a.头晕眼花的;眩晕的"
+  },
+  {
+    "Word": "dock",
+    "Mean": "n.船坞;码头;船厂"
+  },
+  {
+    "Word": "doctrine",
+    "Mean": "n.教义;主义;学说"
+  },
+  {
+    "Word": "domain",
+    "Mean": "n.领域;领土;产业;范围"
+  },
+  {
+    "Word": "dome",
+    "Mean": "n.圆屋顶;拱顶"
+  },
+  {
+    "Word": "dominant",
+    "Mean": "a.统治的n.主因"
+  },
+  {
+    "Word": "dominate",
+    "Mean": "vt.统治;支配;控制"
+  },
+  {
+    "Word": "donate",
+    "Mean": "vt.vi.捐赠"
+  },
+  {
+    "Word": "doom",
+    "Mean": "n.命运;毁灭vt.注定"
+  },
+  {
+    "Word": "doubtless",
+    "Mean": "ad.无疑地;很可能"
+  },
+  {
+    "Word": "drainage",
+    "Mean": "n.排水;下水道"
+  },
+  {
+    "Word": "drastic",
+    "Mean": "a.激烈的;严厉的"
+  },
+  {
+    "Word": "drawback",
+    "Mean": "n.退款;妨碍;弊端"
+  },
+  {
+    "Word": "dreadfu",
+    "Mean": "a.可怕的;令人敬畏的"
+  },
+  {
+    "Word": "drought",
+    "Mean": "n.旱灾;干旱"
+  },
+  {
+    "Word": "dual",
+    "Mean": "a.双重的;双的n.双数"
+  },
+  {
+    "Word": "dubious",
+    "Mean": "a.可疑的;不确定的"
+  },
+  {
+    "Word": "duplicate",
+    "Mean": "n.复制品vt.复制"
+  },
+  {
+    "Word": "dwell",
+    "Mean": "n.居住vi.凝思;细想"
+  },
+  {
+    "Word": "earnings",
+    "Mean": "n.工资;收入;收益"
+  },
+  {
+    "Word": "Easter",
+    "Mean": "n.复活节"
+  },
+  {
+    "Word": "eccentric",
+    "Mean": "n.怪人;偏心圆a.古怪的;不同圆心的"
+  },
+  {
+    "Word": "eclipse",
+    "Mean": "n.(日;月)食"
+  },
+  {
+    "Word": "ecology",
+    "Mean": "n.生态学;个体生态学"
+  },
+  {
+    "Word": "economics",
+    "Mean": "n.经济学;经济"
+  },
+  {
+    "Word": "edible",
+    "Mean": "a.可食用的n.食品;食物"
+  },
+  {
+    "Word": "edit",
+    "Mean": "vt.编辑;编纂;校订"
+  },
+  {
+    "Word": "editorial",
+    "Mean": "n.社论;期刊的社论"
+  },
+  {
+    "Word": "ego",
+    "Mean": "n.自我"
+  },
+  {
+    "Word": "eject",
+    "Mean": "vt.逐出;排斥;喷射"
+  },
+  {
+    "Word": "elapse",
+    "Mean": "vi.(时间)过去;消逝"
+  },
+  {
+    "Word": "elbow",
+    "Mean": "n.肘;肘部;弯管"
+  },
+  {
+    "Word": "elderly",
+    "Mean": "a.过了中年的;稍老的"
+  },
+  {
+    "Word": "electrician",
+    "Mean": "n.电工;电气技师"
+  },
+  {
+    "Word": "electronics",
+    "Mean": "n.电子学"
+  },
+  {
+    "Word": "elegant",
+    "Mean": "a.(举止)雅致的 (服饰)雅致的 (举止、服饰)雅致的"
+  },
+  {
+    "Word": "elevate",
+    "Mean": "vt.提高(思想);抬高"
+  },
+  {
+    "Word": "elicit",
+    "Mean": "vt.引出;抽出;引起"
+  },
+  {
+    "Word": "eligible",
+    "Mean": "n.有资格者;合格者a.有资格的"
+  },
+  {
+    "Word": "elite",
+    "Mean": "n.精华;精锐;中坚分子"
+  },
+  {
+    "Word": "eloquent",
+    "Mean": "a.雄辩的;有口才的;动人的"
+  },
+  {
+    "Word": "emasculate",
+    "Mean": "vt.使缺少男子气"
+  },
+  {
+    "Word": "embark",
+    "Mean": "vi.乘船;着手;从事;上飞机"
+  },
+  {
+    "Word": "embassy",
+    "Mean": "n.大使馆;大使的职务"
+  },
+  {
+    "Word": "embed",
+    "Mean": "vt.使插入;使嵌入"
+  },
+  {
+    "Word": "embody",
+    "Mean": "vt.体现;包含;收录"
+  },
+  {
+    "Word": "empirical",
+    "Mean": "a.经验主义的"
+  },
+  {
+    "Word": "enclosure",
+    "Mean": "n.围绕;围场;围栏"
+  },
+  {
+    "Word": "endeavor",
+    "Mean": "vi.&n.努力;尽力"
+  },
+  {
+    "Word": "endow",
+    "Mean": "vt.资助;赋予;授予"
+  },
+  {
+    "Word": "endurance",
+    "Mean": "n.耐久力;持久力"
+  },
+  {
+    "Word": "energetic",
+    "Mean": "a.积极的;精力旺盛的"
+  },
+  {
+    "Word": "engagement",
+    "Mean": "n.婚约;约会;债务"
+  },
+  {
+    "Word": "enhance",
+    "Mean": "vt.提高;增加;夸张"
+  },
+  {
+    "Word": "enlighten",
+    "Mean": "vt.启发;开导;启蒙"
+  },
+  {
+    "Word": "enrich",
+    "Mean": "vt.使富裕;使丰富"
+  },
+  {
+    "Word": "enroll",
+    "Mean": "vt.登记;招收vi.参军"
+  },
+  {
+    "Word": "ensue",
+    "Mean": "vt.追求vi.跟着发生;继起"
+  },
+  {
+    "Word": "entail",
+    "Mean": "vt.使必需;使承担"
+  },
+  {
+    "Word": "enterprise",
+    "Mean": "n.企业;事业心"
+  },
+  {
+    "Word": "entertainment",
+    "Mean": "n.娱乐;款待;娱乐表演"
+  },
+  {
+    "Word": "enthusiastic",
+    "Mean": "a.热情的;热心的"
+  },
+  {
+    "Word": "entity",
+    "Mean": "n.实体;实存物;存在"
+  },
+  {
+    "Word": "entrepreneur",
+    "Mean": "n.企业家;主办人"
+  },
+  {
+    "Word": "envisage",
+    "Mean": "vt.面对;正视;想象"
+  },
+  {
+    "Word": "episode",
+    "Mean": "n.一段情节;插曲"
+  },
+  {
+    "Word": "epoch",
+    "Mean": "n.(新)时代;历元"
+  },
+  {
+    "Word": "equator",
+    "Mean": "n.赤道;天球赤道"
+  },
+  {
+    "Word": "equilibrium",
+    "Mean": "n.平衡;均衡;均衡论"
+  },
+  {
+    "Word": "erosion",
+    "Mean": "n.腐蚀;侵蚀;糜烂"
+  },
+  {
+    "Word": "erroneous",
+    "Mean": "a.错误的;不正确的"
+  },
+  {
+    "Word": "erupt",
+    "Mean": "vi.爆发vt.喷出"
+  },
+  {
+    "Word": "escort",
+    "Mean": "n.&vt.护卫;护送"
+  },
+  {
+    "Word": "essence",
+    "Mean": "n.本质;本体;精华"
+  },
+  {
+    "Word": "estate",
+    "Mean": "n.房地产;财产;产业"
+  },
+  {
+    "Word": "esthetic",
+    "Mean": "a.审美的"
+  },
+  {
+    "Word": "eternal",
+    "Mean": "n.永久的;不朽的"
+  },
+  {
+    "Word": "ethics",
+    "Mean": "n.道德规范"
+  },
+  {
+    "Word": "ethnic",
+    "Mean": "a.民族特有的"
+  },
+  {
+    "Word": "evoke",
+    "Mean": "vt.唤起;引起"
+  },
+  {
+    "Word": "exceptional",
+    "Mean": "a.例外的;优越的"
+  },
+  {
+    "Word": "exclusive",
+    "Mean": "a.排外的;孤傲的"
+  },
+  {
+    "Word": "execution",
+    "Mean": "n.实行;执行;处死刑"
+  },
+  {
+    "Word": "exemplify",
+    "Mean": "vt.举例证明(解释);举例说明"
+  },
+  {
+    "Word": "exempt",
+    "Mean": "a.免除的vt.使免除;豁免"
+  },
+  {
+    "Word": "exile",
+    "Mean": "vt.流放n.被流放者"
+  },
+  {
+    "Word": "exotic",
+    "Mean": "a.异国的;外来的n.外来物;舶来品"
+  },
+  {
+    "Word": "expedition",
+    "Mean": "n.探险;探险队"
+  },
+  {
+    "Word": "expel",
+    "Mean": "vt.驱逐;开除;排出"
+  },
+  {
+    "Word": "expend",
+    "Mean": "vt.花费;消耗;支出"
+  },
+  {
+    "Word": "expenditure",
+    "Mean": "n.(时间等)支出;消费"
+  },
+  {
+    "Word": "expertise",
+    "Mean": "n.专家的意见;专门技术"
+  },
+  {
+    "Word": "expire",
+    "Mean": "vi.满期;到期;断气"
+  },
+  {
+    "Word": "explicit",
+    "Mean": "a.明晰的;直率的"
+  },
+  {
+    "Word": "exposition",
+    "Mean": "n.说明;解释;陈列"
+  },
+  {
+    "Word": "exquisite",
+    "Mean": "a.精致的;细腻的;敏锐的"
+  },
+  {
+    "Word": "extinct",
+    "Mean": "a.绝种的;熄灭了的"
+  },
+  {
+    "Word": "extinguish",
+    "Mean": "vt.熄灭;扑灭;消灭"
+  },
+  {
+    "Word": "extract",
+    "Mean": "vt.取出;榨取n.摘录"
+  },
+  {
+    "Word": "extravagant",
+    "Mean": "a.奢侈的;过度的"
+  },
+  {
+    "Word": "fabricate",
+    "Mean": "vt.制作;组合;捏造"
+  },
+  {
+    "Word": "facet",
+    "Mean": "n.小平面;方面;刻面"
+  },
+  {
+    "Word": "facilitate",
+    "Mean": "vt.使容易;助长"
+  },
+  {
+    "Word": "fake",
+    "Mean": "n.假货;膺品a.假的"
+  },
+  {
+    "Word": "fantastic",
+    "Mean": "a.空想的;奇异的"
+  },
+  {
+    "Word": "fantasy",
+    "Mean": "n.幻想;白日梦"
+  },
+  {
+    "Word": "fascinate",
+    "Mean": "vt.迷住vi.迷人"
+  },
+  {
+    "Word": "fax",
+    "Mean": "n.传真vt.传真"
+  },
+  {
+    "Word": "feast",
+    "Mean": "n.盛宴;筵席;节日"
+  },
+  {
+    "Word": "federation",
+    "Mean": "n.联邦;联合;联盟"
+  },
+  {
+    "Word": "feeble",
+    "Mean": "a.虚弱的;微弱的"
+  },
+  {
+    "Word": "fellowship",
+    "Mean": "n.伙伴关系;联谊会"
+  },
+  {
+    "Word": "feminine",
+    "Mean": "a.女性的;女子气的"
+  },
+  {
+    "Word": "ferry",
+    "Mean": "n.渡船;渡口vt.运送"
+  },
+  {
+    "Word": "finite",
+    "Mean": "a.有限的;有尽的"
+  },
+  {
+    "Word": "fist",
+    "Mean": "n.拳(头)"
+  },
+  {
+    "Word": "fitting",
+    "Mean": "a.适当的n.配合"
+  },
+  {
+    "Word": "fixture",
+    "Mean": "n.固定;定期存款"
+  },
+  {
+    "Word": "flank",
+    "Mean": "n.肋;肋腹;侧面"
+  },
+  {
+    "Word": "flap",
+    "Mean": "vt.&n.拍打vi.拍动"
+  },
+  {
+    "Word": "flare",
+    "Mean": "vi.闪耀vt.使闪亮"
+  },
+  {
+    "Word": "flatter",
+    "Mean": "vt.奉承;阿谀;谄媚"
+  },
+  {
+    "Word": "flaw",
+    "Mean": "n.缺点;瑕疵;裂隙"
+  },
+  {
+    "Word": "flee",
+    "Mean": "vi.逃走vt.逃避"
+  },
+  {
+    "Word": "fling",
+    "Mean": "vi.&vt.(用力)扔;抛"
+  },
+  {
+    "Word": "fluctuate",
+    "Mean": "vi.波动vt.使波动"
+  },
+  {
+    "Word": "flush",
+    "Mean": "vi.奔流;(脸)发红"
+  },
+  {
+    "Word": "flutter",
+    "Mean": "vi.(鸟)振翼;飘动"
+  },
+  {
+    "Word": "foam",
+    "Mean": "n.泡沫;泡沫塑料"
+  },
+  {
+    "Word": "foil",
+    "Mean": "n.箔;金属薄片vt.贴箔于;衬托"
+  },
+  {
+    "Word": "foremost",
+    "Mean": "a.最初的;第一流的"
+  },
+  {
+    "Word": "foresee",
+    "Mean": "vt.预见;预知;看穿"
+  },
+  {
+    "Word": "format",
+    "Mean": "n.格式v.格式化"
+  },
+  {
+    "Word": "formidable",
+    "Mean": "a.可怕的;难对付的"
+  },
+  {
+    "Word": "formulate",
+    "Mean": "vt.用公式表示"
+  },
+  {
+    "Word": "fort",
+    "Mean": "n.要塞;堡垒"
+  },
+  {
+    "Word": "forthcoming",
+    "Mean": "a.即将到来的;现有的"
+  },
+  {
+    "Word": "forum",
+    "Mean": "n.论坛;讨论会"
+  },
+  {
+    "Word": "fossil",
+    "Mean": "n.化石a.化石的"
+  },
+  {
+    "Word": "foster",
+    "Mean": "vt.养育;抚养;培养"
+  },
+  {
+    "Word": "foul",
+    "Mean": "a.肮脏的;丑恶的"
+  },
+  {
+    "Word": "fracture",
+    "Mean": "n.破裂;裂痕vi.破裂"
+  },
+  {
+    "Word": "fragile",
+    "Mean": "a.脆的;体质弱的"
+  },
+  {
+    "Word": "fraud",
+    "Mean": "n.骗子;欺骗;欺诈;诡计"
+  },
+  {
+    "Word": "fringe",
+    "Mean": "n.穗;毛边;边缘"
+  },
+  {
+    "Word": "frustrate",
+    "Mean": "vt.挫败;使无效"
+  },
+  {
+    "Word": "furious",
+    "Mean": "a.狂怒的;狂暴的"
+  },
+  {
+    "Word": "fuse",
+    "Mean": "n.保险丝;导火线"
+  },
+  {
+    "Word": "fusion",
+    "Mean": "n.熔合物;结合;熔合"
+  },
+  {
+    "Word": "fuss",
+    "Mean": "n.忙乱;吹捧vi.忙乱"
+  },
+  {
+    "Word": "galaxy",
+    "Mean": "n.银河;星系;一群显赫的人物"
+  },
+  {
+    "Word": "gallery",
+    "Mean": "n.长廊;游廊;画廊"
+  },
+  {
+    "Word": "gamble",
+    "Mean": "n.赌博vt.冒...的险"
+  },
+  {
+    "Word": "gaol",
+    "Mean": "n.监禁;监狱vt.监禁"
+  },
+  {
+    "Word": "garbage",
+    "Mean": "n.垃圾;污物;废料"
+  },
+  {
+    "Word": "garment",
+    "Mean": "n.衣服;服装;衣着"
+  },
+  {
+    "Word": "gasp",
+    "Mean": "vi.气喘;喘息"
+  },
+  {
+    "Word": "gear",
+    "Mean": "n.齿轮;传动装置"
+  },
+  {
+    "Word": "gene",
+    "Mean": "n.基因;因子"
+  },
+  {
+    "Word": "generalize",
+    "Mean": "vt.概括出vi.形成概念"
+  },
+  {
+    "Word": "genetic",
+    "Mean": "a.遗传的;起源的"
+  },
+  {
+    "Word": "geology",
+    "Mean": "n.地质学;(某地)地质"
+  },
+  {
+    "Word": "gigantic",
+    "Mean": "a.巨大的;巨人似的"
+  },
+  {
+    "Word": "given",
+    "Mean": "a.赠予的;沉溺的;约定的"
+  },
+  {
+    "Word": "glare",
+    "Mean": "vi.瞪眼n.瞪眼"
+  },
+  {
+    "Word": "gleam",
+    "Mean": "n.微光vi.发微光"
+  },
+  {
+    "Word": "glide",
+    "Mean": "vi.滑动;消逝n.滑行"
+  },
+  {
+    "Word": "glitter",
+    "Mean": "vi.闪闪发光n.闪光"
+  },
+  {
+    "Word": "global",
+    "Mean": "a.球面的;全球的"
+  },
+  {
+    "Word": "gloomy",
+    "Mean": "a.黑暗的;令人沮丧的"
+  },
+  {
+    "Word": "gorgeous",
+    "Mean": "a.绚丽的;极好的"
+  },
+  {
+    "Word": "gossip",
+    "Mean": "n.闲谈;碎嘴子;漫笔"
+  },
+  {
+    "Word": "grab",
+    "Mean": "vt.&vi.攫取;抓取"
+  },
+  {
+    "Word": "gracious",
+    "Mean": "a.谦和的"
+  },
+  {
+    "Word": "graze",
+    "Mean": "vi.喂草;放牧(牲畜)"
+  },
+  {
+    "Word": "grease",
+    "Mean": "n.动物脂;脂肪"
+  },
+  {
+    "Word": "grief",
+    "Mean": "n.悲哀;悲痛;悲伤"
+  },
+  {
+    "Word": "grieve",
+    "Mean": "vt.使悲痛vi.悲痛"
+  },
+  {
+    "Word": "grim",
+    "Mean": "a.冷酷无情的;严厉的"
+  },
+  {
+    "Word": "grin",
+    "Mean": "vi.咧着嘴笑"
+  },
+  {
+    "Word": "groan",
+    "Mean": "vi.哼;呻吟n.呻吟"
+  },
+  {
+    "Word": "grope",
+    "Mean": "vi.(暗中)摸索;探索"
+  },
+  {
+    "Word": "guardian",
+    "Mean": "n.监护人;保护人a.保护的"
+  },
+  {
+    "Word": "guideline",
+    "Mean": "n.指导路线;方针;指标"
+  },
+  {
+    "Word": "guy",
+    "Mean": "n.家伙;支索vt.用支索撑住;取笑"
+  },
+  {
+    "Word": "hamper",
+    "Mean": "vt.妨碍;阻碍;牵制"
+  },
+  {
+    "Word": "handbook",
+    "Mean": "n.手册;便览;指南"
+  },
+  {
+    "Word": "handicap",
+    "Mean": "vt.妨碍;使不利"
+  },
+  {
+    "Word": "hasty",
+    "Mean": "a.急速的;仓促的"
+  },
+  {
+    "Word": "hatch",
+    "Mean": "vt.舱盖;舱口;短门"
+  },
+  {
+    "Word": "haul",
+    "Mean": "vt.拖曳;拖运"
+  },
+  {
+    "Word": "haunt",
+    "Mean": "vt.常去vi.经常出没"
+  },
+  {
+    "Word": "heal",
+    "Mean": "vt.治愈;使和解"
+  },
+  {
+    "Word": "hearing",
+    "Mean": "n.听;听觉"
+  },
+  {
+    "Word": "heave",
+    "Mean": "vt.(用力地)举起;抛"
+  },
+  {
+    "Word": "heighten",
+    "Mean": "vt.加高;提高;增加"
+  },
+  {
+    "Word": "heir",
+    "Mean": "n.后嗣;继承人"
+  },
+  {
+    "Word": "hemisphere",
+    "Mean": "n.半球;半球地图"
+  },
+  {
+    "Word": "henceforth",
+    "Mean": "ad.今后;从今以后"
+  },
+  {
+    "Word": "heritage",
+    "Mean": "n.遗产;继承物;传统"
+  },
+  {
+    "Word": "hierarchy",
+    "Mean": "n.等级制度;统治集团"
+  },
+  {
+    "Word": "highlight",
+    "Mean": "n.突出;精彩场面vt.加亮;使显著"
+  },
+  {
+    "Word": "hinder",
+    "Mean": "a.后面的vt.vi.阻碍;打扰"
+  },
+  {
+    "Word": "hinge",
+    "Mean": "n.合页;折叶;铰链"
+  },
+  {
+    "Word": "historian",
+    "Mean": "n.历史学家;编史家"
+  },
+  {
+    "Word": "historic",
+    "Mean": "a.历史的;历史性的"
+  },
+  {
+    "Word": "hitherto",
+    "Mean": "ad.迄今;到目前为止"
+  },
+  {
+    "Word": "hoist",
+    "Mean": "vt.升起vi.扯起来"
+  },
+  {
+    "Word": "homogeneous",
+    "Mean": "a.同类的;均匀的"
+  },
+  {
+    "Word": "horrible",
+    "Mean": "a.可怕的;极可憎的;极可厌的"
+  },
+  {
+    "Word": "hose",
+    "Mean": "n.长筒袜;软管"
+  },
+  {
+    "Word": "hospitality",
+    "Mean": "n.好客;殷勤;宜人"
+  },
+  {
+    "Word": "hostage",
+    "Mean": "n.人质;抵押品"
+  },
+  {
+    "Word": "hover",
+    "Mean": "vi.徘徊;傍徨;翱翔"
+  },
+  {
+    "Word": "hug",
+    "Mean": "vt.搂n.紧紧拥抱"
+  },
+  {
+    "Word": "humanity",
+    "Mean": "n.人类;人性;人情"
+  },
+  {
+    "Word": "humidity",
+    "Mean": "n.湿气;湿度"
+  },
+  {
+    "Word": "hurl",
+    "Mean": "vt.猛投vi.猛冲"
+  },
+  {
+    "Word": "hurricane",
+    "Mean": "n.飓风;十二级风"
+  },
+  {
+    "Word": "hypothesis",
+    "Mean": "n.假设;前提"
+  },
+  {
+    "Word": "hysterical",
+    "Mean": "a.歇斯底里的;异常兴奋的"
+  },
+  {
+    "Word": "identification",
+    "Mean": "n.认出;鉴定;身份证"
+  },
+  {
+    "Word": "identity",
+    "Mean": "n.相同;身分;恒等式;特性;一致"
+  },
+  {
+    "Word": "ideology",
+    "Mean": "n.意识形态;思想体系"
+  },
+  {
+    "Word": "idiom",
+    "Mean": "n.习语;成语"
+  },
+  {
+    "Word": "ignite",
+    "Mean": "vt.引燃vi.着火"
+  },
+  {
+    "Word": "ignorance",
+    "Mean": "n.无知;无学;愚昧"
+  },
+  {
+    "Word": "illuminate",
+    "Mean": "vt.照明;照亮;阐明"
+  },
+  {
+    "Word": "illusion",
+    "Mean": "n.幻想;错觉;假象"
+  },
+  {
+    "Word": "imaginative",
+    "Mean": "a.想象的;虚构的"
+  },
+  {
+    "Word": "imitation",
+    "Mean": "n.仿制品;伪制物"
+  },
+  {
+    "Word": "immerse",
+    "Mean": "vt.沉浸;给...施洗礼"
+  },
+  {
+    "Word": "immune",
+    "Mean": "a.免疫的;免除的;不受影响的"
+  },
+  {
+    "Word": "impair",
+    "Mean": "vt.损害;减少;削弱"
+  },
+  {
+    "Word": "impart",
+    "Mean": "vt.给予;传递;告诉"
+  },
+  {
+    "Word": "imperative",
+    "Mean": "n.命令;a.命令式的;急需的;强制的"
+  },
+  {
+    "Word": "imperial",
+    "Mean": "a.帝王的;至尊的n.特等品"
+  },
+  {
+    "Word": "impetus",
+    "Mean": "n.动力;推动力;激励"
+  },
+  {
+    "Word": "implement",
+    "Mean": "n.工具vt.实现;使生效;执行"
+  },
+  {
+    "Word": "implicit",
+    "Mean": "a.暗示的;盲从的;绝对的;固有的"
+  },
+  {
+    "Word": "impulse",
+    "Mean": "n.冲动;推动;脉冲"
+  },
+  {
+    "Word": "inaugurate",
+    "Mean": "vt.开始;使就职"
+  },
+  {
+    "Word": "incentive",
+    "Mean": "n.动机a.激励的"
+  },
+  {
+    "Word": "incidence",
+    "Mean": "n.发生;影响;入射"
+  },
+  {
+    "Word": "incidentally",
+    "Mean": "ad.附带地;顺便提及"
+  },
+  {
+    "Word": "inclusive",
+    "Mean": "a.包围住的;包括的"
+  },
+  {
+    "Word": "incorporate",
+    "Mean": "vt.结合;合并;收编"
+  },
+  {
+    "Word": "incredible",
+    "Mean": "a.难以置信的;惊人的"
+  },
+  {
+    "Word": "incur",
+    "Mean": "vt.招致;蒙受;遭遇"
+  },
+  {
+    "Word": "indefinite",
+    "Mean": "a.不明确的;不定的"
+  },
+  {
+    "Word": "indicative",
+    "Mean": "a.指示的;陈述的"
+  },
+  {
+    "Word": "indignant",
+    "Mean": "a.愤慨的;义愤的"
+  },
+  {
+    "Word": "indignation",
+    "Mean": "n.愤怒;愤慨;义愤"
+  },
+  {
+    "Word": "induce",
+    "Mean": "vt.劝诱;引起;感应"
+  },
+  {
+    "Word": "indulge",
+    "Mean": "vt.放纵(感情)vi.纵情"
+  },
+  {
+    "Word": "inertia",
+    "Mean": "n.惯性;惯量;无力"
+  },
+  {
+    "Word": "infectious",
+    "Mean": "a.传染的;感染性的"
+  },
+  {
+    "Word": "inference",
+    "Mean": "n.推论;推断的结果"
+  },
+  {
+    "Word": "inflation",
+    "Mean": "n.通货膨胀;物价飞涨"
+  },
+  {
+    "Word": "inflict",
+    "Mean": "vt.施以;加害;使承受"
+  },
+  {
+    "Word": "ingenious",
+    "Mean": "a.机灵的;精巧制成的"
+  },
+  {
+    "Word": "ingredient",
+    "Mean": "n.配料;成分"
+  },
+  {
+    "Word": "inhabit",
+    "Mean": "vt.居住于;栖息于"
+  },
+  {
+    "Word": "inhibit",
+    "Mean": "vt.禁止;抑制"
+  },
+  {
+    "Word": "initiate",
+    "Mean": "vt.开始;创始;启蒙"
+  },
+  {
+    "Word": "initiative",
+    "Mean": "a.创始的n.第一步"
+  },
+  {
+    "Word": "inject",
+    "Mean": "vt.注射;注满;喷 射"
+  },
+  {
+    "Word": "inland",
+    "Mean": "a.国内的;内地的"
+  },
+  {
+    "Word": "inlet",
+    "Mean": "n.进口;水湾vt.引进"
+  },
+  {
+    "Word": "innovation",
+    "Mean": "n.创新;改革;新设施"
+  },
+  {
+    "Word": "innumerable",
+    "Mean": "a.无数的;数不清的"
+  },
+  {
+    "Word": "insane",
+    "Mean": "a.患精神病的;不理智的"
+  },
+  {
+    "Word": "insight",
+    "Mean": "n.洞察力;洞悉;见识"
+  },
+  {
+    "Word": "inspiration",
+    "Mean": "n.灵感;妙想;鼓舞"
+  },
+  {
+    "Word": "installment",
+    "Mean": "n.分期付款"
+  },
+  {
+    "Word": "instantaneous",
+    "Mean": "a.瞬间的;即刻的"
+  },
+  {
+    "Word": "instrumental",
+    "Mean": "a.仪器的;有帮助的"
+  },
+  {
+    "Word": "insulate",
+    "Mean": "vt.使绝缘;使绝热"
+  },
+  {
+    "Word": "intact",
+    "Mean": "a.原封不动的;完整的"
+  },
+  {
+    "Word": "integral",
+    "Mean": "a.组成的;整的"
+  },
+  {
+    "Word": "integrate",
+    "Mean": "vt.使结合;使并入"
+  },
+  {
+    "Word": "integrity",
+    "Mean": "n.诚实;正直"
+  },
+  {
+    "Word": "intellect",
+    "Mean": "n.理智;智力;才智"
+  },
+  {
+    "Word": "intelligible",
+    "Mean": "a.可理解;易理解的;明了的"
+  },
+  {
+    "Word": "intensify",
+    "Mean": "vt.vi.加强;强化"
+  },
+  {
+    "Word": "intent",
+    "Mean": "a.目不转睛的;热切的"
+  },
+  {
+    "Word": "interact",
+    "Mean": "vi.相互作用"
+  },
+  {
+    "Word": "interim",
+    "Mean": "a.中间的;暂时;间歇的;n.过渡时期"
+  },
+  {
+    "Word": "intermittent",
+    "Mean": "a.间歇的;断断续续的"
+  },
+  {
+    "Word": "intersection",
+    "Mean": "n.交集;十字路口;交叉点"
+  },
+  {
+    "Word": "intervene",
+    "Mean": "vi.干涉;干预;播进"
+  },
+  {
+    "Word": "intimidate",
+    "Mean": "vt.威胁;恐吓;胁迫"
+  },
+  {
+    "Word": "intricate",
+    "Mean": "a.复杂的;错综的;缠结的;难懂的"
+  },
+  {
+    "Word": "intrigue",
+    "Mean": "n.阴谋vi.密谋;耍诡计vt.激起兴趣"
+  },
+  {
+    "Word": "intrinsic",
+    "Mean": "a.本质的;原有的;真正的"
+  },
+  {
+    "Word": "intuition",
+    "Mean": "n.直觉;直觉的知识"
+  },
+  {
+    "Word": "invalid",
+    "Mean": "n.病人a.有病的;无效的"
+  },
+  {
+    "Word": "invaluable",
+    "Mean": "a.无价的;价值无法衡量的"
+  },
+  {
+    "Word": "invariably",
+    "Mean": "ad.不变地;永恒地"
+  },
+  {
+    "Word": "inventory",
+    "Mean": "n.详细目录;存货清单"
+  },
+  {
+    "Word": "invert",
+    "Mean": "vt.使反转;使颠倒;使转化"
+  },
+  {
+    "Word": "irony",
+    "Mean": "n.反讽;讽剌;讽剌之事"
+  },
+  {
+    "Word": "irrespective",
+    "Mean": "a.不考虑的;不顾的"
+  },
+  {
+    "Word": "irrigation",
+    "Mean": "n.灌溉;冲洗法"
+  },
+  {
+    "Word": "irritate",
+    "Mean": "vt.激怒;引起不愉快"
+  },
+  {
+    "Word": "ivory",
+    "Mean": "n.象牙;牙质;乳白色"
+  },
+  {
+    "Word": "jail",
+    "Mean": "n.监狱vi.监禁"
+  },
+  {
+    "Word": "jeopardize",
+    "Mean": "vt.危害;使受危困;使陷危地"
+  },
+  {
+    "Word": "jerk",
+    "Mean": "vt.猛地一拉vi.急拉"
+  },
+  {
+    "Word": "journalist",
+    "Mean": "n.记者;新闻工作者"
+  },
+  {
+    "Word": "junction",
+    "Mean": "n.连接;接头;中继线"
+  },
+  {
+    "Word": "jury",
+    "Mean": "n.陪审团;评奖团"
+  },
+  {
+    "Word": "justification",
+    "Mean": "n.辩护;证明是正当的;释罪"
+  },
+  {
+    "Word": "kidney",
+    "Mean": "n.肾;腰子;性格"
+  },
+  {
+    "Word": "kit",
+    "Mean": "n.成套工具;用具包"
+  },
+  {
+    "Word": "knit",
+    "Mean": "vt.把...编结vi.编织"
+  },
+  {
+    "Word": "knob",
+    "Mean": "n.门把;拉手;旋纽"
+  },
+  {
+    "Word": "lamb",
+    "Mean": "n.羔羊;小羊;羔羊肉"
+  },
+  {
+    "Word": "lame",
+    "Mean": "a.跛的;瘸的;残废的"
+  },
+  {
+    "Word": "landscape",
+    "Mean": "n.风景;景色;景致"
+  },
+  {
+    "Word": "latent",
+    "Mean": "a.存在但看不见的"
+  },
+  {
+    "Word": "latitude",
+    "Mean": "n.纬度;黄纬"
+  },
+  {
+    "Word": "layman",
+    "Mean": "n.俗人;门外汉;凡人"
+  },
+  {
+    "Word": "leaflet",
+    "Mean": "n.传单;活页;广告"
+  },
+  {
+    "Word": "lease",
+    "Mean": "n.租约;契约;租契"
+  },
+  {
+    "Word": "legend",
+    "Mean": "n.传说;传奇"
+  },
+  {
+    "Word": "legislation",
+    "Mean": "n.立法;法规"
+  },
+  {
+    "Word": "legitimate",
+    "Mean": "a.合法的;正当的vt.使合法"
+  },
+  {
+    "Word": "liability",
+    "Mean": "n.责任;倾向;债务"
+  },
+  {
+    "Word": "lick",
+    "Mean": "vt.舔;舔吃"
+  },
+  {
+    "Word": "likelihood",
+    "Mean": "n.可能(性)"
+  },
+  {
+    "Word": "limp",
+    "Mean": "vi.蹒跚;跛行n.跛行"
+  },
+  {
+    "Word": "linear",
+    "Mean": "a.线的;长度的"
+  },
+  {
+    "Word": "liner",
+    "Mean": "n.班船;班机"
+  },
+  {
+    "Word": "linger",
+    "Mean": "vi.逗留;徘徊;拖延"
+  },
+  {
+    "Word": "literacy",
+    "Mean": "n.读写能力;识字"
+  },
+  {
+    "Word": "literal",
+    "Mean": "a.文字(上)的;字面的"
+  },
+  {
+    "Word": "litter",
+    "Mean": "n.废物;杂乱vi.乱扔"
+  },
+  {
+    "Word": "lobby",
+    "Mean": "n.前厅;(剧院的)门廊"
+  },
+  {
+    "Word": "locality",
+    "Mean": "n.位置;地点;发生地"
+  },
+  {
+    "Word": "locomotive",
+    "Mean": "a.运动的;机动"
+  },
+  {
+    "Word": "lofty",
+    "Mean": "a.高耸的;高尚的"
+  },
+  {
+    "Word": "longitude",
+    "Mean": "n.经线;经度"
+  },
+  {
+    "Word": "lounge",
+    "Mean": "n.(旅馆等的)休息室"
+  },
+  {
+    "Word": "lubricate",
+    "Mean": "vt.使润滑vi.加润滑油"
+  },
+  {
+    "Word": "luminous",
+    "Mean": "a.发光的;光明的"
+  },
+  {
+    "Word": "lunar",
+    "Mean": "a.月亮的"
+  },
+  {
+    "Word": "magnify",
+    "Mean": "vt.放大;扩大"
+  },
+  {
+    "Word": "magnitude",
+    "Mean": "n.大小;重大;星等"
+  },
+  {
+    "Word": "majesty",
+    "Mean": "n.威严;尊严;陛下"
+  },
+  {
+    "Word": "mall",
+    "Mean": "n.大型购物中心"
+  },
+  {
+    "Word": "manifest",
+    "Mean": "vt.表明a.明白的"
+  },
+  {
+    "Word": "manipulate",
+    "Mean": "vt.操作;控制;手持"
+  },
+  {
+    "Word": "manoeuvre",
+    "Mean": "n.vi.调遣;演习vt.调动;操纵"
+  },
+  {
+    "Word": "manuscript",
+    "Mean": "n.手稿;底稿;原稿"
+  },
+  {
+    "Word": "marble",
+    "Mean": "n.大理石"
+  },
+  {
+    "Word": "marginal",
+    "Mean": "a.记在页边的;边缘的"
+  },
+  {
+    "Word": "marsh",
+    "Mean": "n.沼泽地;湿地"
+  },
+  {
+    "Word": "marshal",
+    "Mean": "n.元帅;陆军元帅"
+  },
+  {
+    "Word": "masculine",
+    "Mean": "a.男性的;强壮的"
+  },
+  {
+    "Word": "massive",
+    "Mean": "a.粗大的;大而重的"
+  },
+  {
+    "Word": "masterpiece",
+    "Mean": "n.杰作;名著"
+  },
+  {
+    "Word": "meadow",
+    "Mean": "n.草地;牧草地"
+  },
+  {
+    "Word": "mechanism",
+    "Mean": "n.机械装置;机制"
+  },
+  {
+    "Word": "medal",
+    "Mean": "n.奖章;勋章;纪念章"
+  },
+  {
+    "Word": "media",
+    "Mean": "n.媒体"
+  },
+  {
+    "Word": "mediate",
+    "Mean": "a.居间的;间接的vt.斡旋;调停"
+  },
+  {
+    "Word": "medieval",
+    "Mean": "a.中古的;中世纪的"
+  },
+  {
+    "Word": "mediterranean",
+    "Mean": "n.地中海a.地中海的"
+  },
+  {
+    "Word": "melody",
+    "Mean": "n.旋律;曲调;歌曲"
+  },
+  {
+    "Word": "membership",
+    "Mean": "n.成员资格;会员人数"
+  },
+  {
+    "Word": "menace",
+    "Mean": "vt.&vi.&n.(进行)威胁"
+  },
+  {
+    "Word": "merge",
+    "Mean": "vt.使合并;使并为一体"
+  },
+  {
+    "Word": "mess",
+    "Mean": "vt.弄脏;弄乱;搞糟"
+  },
+  {
+    "Word": "messenger",
+    "Mean": "n.送信者;信使"
+  },
+  {
+    "Word": "metallic",
+    "Mean": "a.金属的n.金属粒子"
+  },
+  {
+    "Word": "metropolitan",
+    "Mean": "a.主要都市的n.大主教"
+  },
+  {
+    "Word": "midst",
+    "Mean": "n.中部;中间;当中"
+  },
+  {
+    "Word": "migrate",
+    "Mean": "vi.迁移;移居"
+  },
+  {
+    "Word": "militant",
+    "Mean": "a.好战的"
+  },
+  {
+    "Word": "mingle",
+    "Mean": "vt.使混合vi.混合起来"
+  },
+  {
+    "Word": "miniature",
+    "Mean": "n.缩影a.缩小的"
+  },
+  {
+    "Word": "minimal",
+    "Mean": "a.最小的;极微的;最小限度的"
+  },
+  {
+    "Word": "minimize",
+    "Mean": "vt.使减到最小"
+  },
+  {
+    "Word": "misery",
+    "Mean": "n.痛苦;悲惨;不幸"
+  },
+  {
+    "Word": "misfortune",
+    "Mean": "n.不幸;灾祸;灾难"
+  },
+  {
+    "Word": "missionary",
+    "Mean": "n.传教士"
+  },
+  {
+    "Word": "mobilize",
+    "Mean": "vt.动员vi.动员起来"
+  },
+  {
+    "Word": "mock",
+    "Mean": "n.嘲弄vt.嘲弄;挖苦"
+  },
+  {
+    "Word": "momentum",
+    "Mean": "n.动力;要素"
+  },
+  {
+    "Word": "monopoly",
+    "Mean": "n.垄断;独占;专利"
+  },
+  {
+    "Word": "monster",
+    "Mean": "n.怪物;畸形的动植物"
+  },
+  {
+    "Word": "morality",
+    "Mean": "n.道德;美德;品行"
+  },
+  {
+    "Word": "mortal",
+    "Mean": "a.终有一死的;致死的"
+  },
+  {
+    "Word": "mortgage",
+    "Mean": "n.抵押vt.抵押"
+  },
+  {
+    "Word": "motel",
+    "Mean": "n.汽车游客旅馆"
+  },
+  {
+    "Word": "mourn",
+    "Mean": "vi.哀痛;哀悼"
+  },
+  {
+    "Word": "muddy",
+    "Mean": "a.多泥的;泥泞的"
+  },
+  {
+    "Word": "multitude",
+    "Mean": "n.大批;大群;大量"
+  },
+  {
+    "Word": "municipal",
+    "Mean": "a.市的;市立的"
+  },
+  {
+    "Word": "murmur",
+    "Mean": "vi.低语;低声而言n.低语"
+  },
+  {
+    "Word": "muscular",
+    "Mean": "a.肌肉发达的;强健的"
+  },
+  {
+    "Word": "mutter",
+    "Mean": "vi.轻声低语;抱怨"
+  },
+  {
+    "Word": "myth",
+    "Mean": "n.神话;虚构的事;虚构的人"
+  },
+  {
+    "Word": "naive",
+    "Mean": "a.天真的;纯真的;朴素的"
+  },
+  {
+    "Word": "narrative",
+    "Mean": "n.叙述;故事a.叙述的;叙事的"
+  },
+  {
+    "Word": "nasty",
+    "Mean": "a.龌龊的;淫猥的"
+  },
+  {
+    "Word": "Necessitate",
+    "Mean": "vt.迫使;使成为必需;需要"
+  },
+  {
+    "Word": "negligible",
+    "Mean": "a.微不足道的"
+  },
+  {
+    "Word": "negotiate",
+    "Mean": "vi.谈判;交涉;议定"
+  },
+  {
+    "Word": "nickel",
+    "Mean": "n.镍;镍币"
+  },
+  {
+    "Word": "nightmare",
+    "Mean": "n.恶梦;经常的恐惧"
+  },
+  {
+    "Word": "Nominal",
+    "Mean": "a.名义上的;名字的n.名词性词"
+  },
+  {
+    "Word": "nominate",
+    "Mean": "vt.提名;推荐;任命"
+  },
+  {
+    "Word": "Nonetheless",
+    "Mean": "adv.尽管如此;然而"
+  },
+  {
+    "Word": "norm",
+    "Mean": "n.标准;规范;平均数"
+  },
+  {
+    "Word": "notable",
+    "Mean": "n.值得注意的;著名的"
+  },
+  {
+    "Word": "Notation",
+    "Mean": "n.记号法;表示法;注释"
+  },
+  {
+    "Word": "notify",
+    "Mean": "vt.通知;告知;报告"
+  },
+  {
+    "Word": "notion",
+    "Mean": "n.概念;意念;看法"
+  },
+  {
+    "Word": "notorious",
+    "Mean": "a.臭名昭著的"
+  },
+  {
+    "Word": "notwithstanding",
+    "Mean": "prep.尽管;虽然"
+  },
+  {
+    "Word": "nourish",
+    "Mean": "vt.提供养分;养育"
+  },
+  {
+    "Word": "novelty",
+    "Mean": "n.新颖;新奇的事物"
+  },
+  {
+    "Word": "numerical",
+    "Mean": "a.数字的;数值的"
+  },
+  {
+    "Word": "Nutrition",
+    "Mean": "n.营养;营养学"
+  },
+  {
+    "Word": "oath",
+    "Mean": "n.誓言;誓约;宣誓"
+  },
+  {
+    "Word": "obedient",
+    "Mean": "n.服从的;顺从的"
+  },
+  {
+    "Word": "obligation",
+    "Mean": "n.义务;职责;责任"
+  },
+  {
+    "Word": "obscene",
+    "Mean": "a.淫秽的;猥亵的"
+  },
+  {
+    "Word": "obscure",
+    "Mean": "a.阴暗的;蒙昧的"
+  },
+  {
+    "Word": "odor",
+    "Mean": "n.气味;名声;味"
+  },
+  {
+    "Word": "offence",
+    "Mean": "n.犯罪;犯规;冒犯"
+  },
+  {
+    "Word": "offensive",
+    "Mean": "a.冒犯的;进攻的"
+  },
+  {
+    "Word": "offset",
+    "Mean": "n.分支;抵销vt.抵销"
+  },
+  {
+    "Word": "offspring",
+    "Mean": "n.儿女;子孙;后代"
+  },
+  {
+    "Word": "opaque",
+    "Mean": "a.不透明的;不传导的"
+  },
+  {
+    "Word": "oppress",
+    "Mean": "vt.压迫;压制;压抑"
+  },
+  {
+    "Word": "optimism",
+    "Mean": "n.乐观;乐观主义"
+  },
+  {
+    "Word": "optimum",
+    "Mean": "n.最适条件;最适度"
+  },
+  {
+    "Word": "option",
+    "Mean": "n.选择;取舍"
+  },
+  {
+    "Word": "orient",
+    "Mean": "n.东方;亚洲;远东"
+  },
+  {
+    "Word": "oriental",
+    "Mean": "a.东方的;东方国家的"
+  },
+  {
+    "Word": "orientation",
+    "Mean": "n.向东;定位;方向"
+  },
+  {
+    "Word": "originate",
+    "Mean": "vi.发源vt.首创"
+  },
+  {
+    "Word": "ornament",
+    "Mean": "n.装饰物vt.装修"
+  },
+  {
+    "Word": "Orthodox",
+    "Mean": "a.正统的;传统的;惯常的"
+  },
+  {
+    "Word": "Outbreak",
+    "Mean": "n.(战争、愤怒等)爆发"
+  },
+  {
+    "Word": "oval",
+    "Mean": "a.卵形的n.卵形"
+  },
+  {
+    "Word": "overflow",
+    "Mean": "vt.从...中溢出"
+  },
+  {
+    "Word": "overhear",
+    "Mean": "vt.偶然听到;偷听"
+  },
+  {
+    "Word": "overlap",
+    "Mean": "vt.与...交搭vi.重迭"
+  },
+  {
+    "Word": "Overt",
+    "Mean": "a.明显的;公然的"
+  },
+  {
+    "Word": "overthrow",
+    "Mean": "vt.推翻n.推翻;瓦解"
+  },
+  {
+    "Word": "overwhelm",
+    "Mean": "vt.压倒;使不知所措"
+  },
+  {
+    "Word": "oxide",
+    "Mean": "n.氧化物"
+  },
+  {
+    "Word": "pamphlet",
+    "Mean": "n.小册子"
+  },
+  {
+    "Word": "panic",
+    "Mean": "n.恐慌;惊慌"
+  },
+  {
+    "Word": "paradise",
+    "Mean": "n.伊甸乐园;天堂"
+  },
+  {
+    "Word": "paradox",
+    "Mean": "n.似非而是的论点;自相矛盾的话"
+  },
+  {
+    "Word": "paralyze",
+    "Mean": "vt.使瘫痪;使麻痹"
+  },
+  {
+    "Word": "parameter",
+    "Mean": "n.参(变)数;参量"
+  },
+  {
+    "Word": "participant",
+    "Mean": "n.参加者a.有份的"
+  },
+  {
+    "Word": "partition",
+    "Mean": "n.分开;分割;融墙"
+  },
+  {
+    "Word": "pastime",
+    "Mean": "n.消遣;娱乐"
+  },
+  {
+    "Word": "pasture",
+    "Mean": "n.牧场;牲畜饲养"
+  },
+  {
+    "Word": "patent",
+    "Mean": "a.专利的n.专利"
+  },
+  {
+    "Word": "pathetic",
+    "Mean": "a.哀婉动人的;可怜的"
+  },
+  {
+    "Word": "patriotic",
+    "Mean": "a.爱国的"
+  },
+  {
+    "Word": "patrol",
+    "Mean": "n.巡逻n.巡逻;巡查"
+  },
+  {
+    "Word": "pave",
+    "Mean": "vt.铺;筑(路等)"
+  },
+  {
+    "Word": "pearl",
+    "Mean": "n.珍珠;珍珠母"
+  },
+  {
+    "Word": "pedal",
+    "Mean": "n.踏脚;踏板;脚蹬"
+  },
+  {
+    "Word": "pedestrian",
+    "Mean": "n.行人;步行者"
+  },
+  {
+    "Word": "peel",
+    "Mean": "vt.剥(皮);削(皮)"
+  },
+  {
+    "Word": "peer",
+    "Mean": "vi.凝视;隐约出现"
+  },
+  {
+    "Word": "penalty",
+    "Mean": "n.处罚;刑罚;罚款"
+  },
+  {
+    "Word": "Pendulum",
+    "Mean": "n.(钟等的)摆"
+  },
+  {
+    "Word": "pension",
+    "Mean": "n.抚恤金;年金"
+  },
+  {
+    "Word": "perception",
+    "Mean": "n.感觉;概念;理解力"
+  },
+  {
+    "Word": "perfection",
+    "Mean": "n.尽善尽美;无比精确"
+  },
+  {
+    "Word": "perfume",
+    "Mean": "n.香味;芳香;香料"
+  },
+  {
+    "Word": "periodic",
+    "Mean": "n.周期的;一定时期的"
+  },
+  {
+    "Word": "periodical",
+    "Mean": "n.期刊;杂志"
+  },
+  {
+    "Word": "perish",
+    "Mean": "vi.死亡;夭折;枯萎"
+  },
+  {
+    "Word": "Permeate",
+    "Mean": "vt.弥漫;渗透;充满vi.透入"
+  },
+  {
+    "Word": "Permissible",
+    "Mean": "a.可允许的"
+  },
+  {
+    "Word": "perpetual",
+    "Mean": "a.永久的;四季开花的"
+  },
+  {
+    "Word": "perplex",
+    "Mean": "vt.迷惑;困惑;难住"
+  },
+  {
+    "Word": "Persistent",
+    "Mean": "a.固执的;坚持的;持续的"
+  },
+  {
+    "Word": "pest",
+    "Mean": "n.害虫;害人虫"
+  },
+  {
+    "Word": "petition",
+    "Mean": "n.请愿vt.向...请愿"
+  },
+  {
+    "Word": "petty",
+    "Mean": "a.细小的;器量小的"
+  },
+  {
+    "Word": "Physiological",
+    "Mean": "a.生理学的;生理学上的"
+  },
+  {
+    "Word": "plague",
+    "Mean": "n.瘟疫;鼠疫;天灾"
+  },
+  {
+    "Word": "plaster",
+    "Mean": "n.灰泥;硬膏;熟石膏"
+  },
+  {
+    "Word": "plateau",
+    "Mean": "n.高原;平稳时期"
+  },
+  {
+    "Word": "Plausible",
+    "Mean": "a.似乎真实的;似乎合理的"
+  },
+  {
+    "Word": "plea",
+    "Mean": "n.请愿;请求;恳求"
+  },
+  {
+    "Word": "plea",
+    "Mean": "n.请愿;请求;恳求"
+  },
+  {
+    "Word": "plead",
+    "Mean": "vt.为...辩护vi.抗辩"
+  },
+  {
+    "Word": "pledge",
+    "Mean": "n.誓言vt.使发誓"
+  },
+  {
+    "Word": "poke",
+    "Mean": "vt.戳;刺;伸(头等)"
+  },
+  {
+    "Word": "polar",
+    "Mean": "a.南(北)极的;极性的"
+  },
+  {
+    "Word": "poll",
+    "Mean": "n.投票vi.投票"
+  },
+  {
+    "Word": "ponder",
+    "Mean": "vt.考虑vi.沉思"
+  },
+  {
+    "Word": "Pope",
+    "Mean": "n.(罗马天主教的)教皇"
+  },
+  {
+    "Word": "porch",
+    "Mean": "n.门廊;入口处"
+  },
+  {
+    "Word": "pore",
+    "Mean": "n.毛孔;气孔;细孔"
+  },
+  {
+    "Word": "portray",
+    "Mean": "vt.描绘;描写;描写...的肖像;"
+  },
+  {
+    "Word": "pose",
+    "Mean": "vi.假装;摆姿势n.姿势"
+  },
+  {
+    "Word": "poster",
+    "Mean": "n.海报;招贴;脚夫"
+  },
+  {
+    "Word": "postulate",
+    "Mean": "vt.要求;假定;假设"
+  },
+  {
+    "Word": "practicable",
+    "Mean": "a.能实行的;适用的"
+  },
+  {
+    "Word": "prayer",
+    "Mean": "n.祈祷;祈求"
+  },
+  {
+    "Word": "preach",
+    "Mean": "vt.说教;布道;鼓吹"
+  },
+  {
+    "Word": "precede",
+    "Mean": "vt.先于...vi.领先"
+  },
+  {
+    "Word": "precipitate",
+    "Mean": "a.突如其来的vt.使突然发生n.沉淀物"
+  },
+  {
+    "Word": "preclude",
+    "Mean": "vt.预先排除;预防;阻止;妨碍"
+  },
+  {
+    "Word": "predecessor",
+    "Mean": "n.前辈;前任者"
+  },
+  {
+    "Word": "predominant",
+    "Mean": "a.占优势的;主要的"
+  },
+  {
+    "Word": "pregnant",
+    "Mean": "a.怀孕的;意义深长的"
+  },
+  {
+    "Word": "premature",
+    "Mean": "a.早熟;过早的n.早产儿"
+  },
+  {
+    "Word": "premise",
+    "Mean": "n.前提;假设;房产"
+  },
+  {
+    "Word": "premium",
+    "Mean": "n.额外费用;奖金;奖赏;保险费"
+  },
+  {
+    "Word": "prescription",
+    "Mean": "n.药方;处方的药"
+  },
+  {
+    "Word": "presentation",
+    "Mean": "n.介绍;赠送;呈现"
+  },
+  {
+    "Word": "preside",
+    "Mean": "vi.主持;主奏"
+  },
+  {
+    "Word": "prestige",
+    "Mean": "n.威望;威信;声望"
+  },
+  {
+    "Word": "presumably",
+    "Mean": "ad.推测起来;大概"
+  },
+  {
+    "Word": "presume",
+    "Mean": "vt.假定;假设;揣测"
+  },
+  {
+    "Word": "pretext",
+    "Mean": "n.借口;托辞"
+  },
+  {
+    "Word": "prevalent",
+    "Mean": "a.流行的;盛行的"
+  },
+  {
+    "Word": "prey",
+    "Mean": "vi.猎物vi.捕获"
+  },
+  {
+    "Word": "priest",
+    "Mean": "n.教士;牧师;神父"
+  },
+  {
+    "Word": "priority",
+    "Mean": "n.先;前;优先;重点"
+  },
+  {
+    "Word": "privacy",
+    "Mean": "n.隐私;隐居;秘密"
+  },
+  {
+    "Word": "probe",
+    "Mean": "n.探针vt.用探针探查"
+  },
+  {
+    "Word": "proceeding",
+    "Mean": "n.程序;行动;事项"
+  },
+  {
+    "Word": "proclaim",
+    "Mean": "vt.宣告;宣布;表明"
+  },
+  {
+    "Word": "productive",
+    "Mean": "a.生产的;出产...的"
+  },
+  {
+    "Word": "productivity",
+    "Mean": "n.生产率;多产"
+  },
+  {
+    "Word": "proficiency",
+    "Mean": "n.熟练;精通"
+  },
+  {
+    "Word": "profile",
+    "Mean": "n.侧面;轮廓;人物素描;传略"
+  },
+  {
+    "Word": "profitable",
+    "Mean": "a.有利的;有益的"
+  },
+  {
+    "Word": "profound",
+    "Mean": "a.深刻的;渊博的"
+  },
+  {
+    "Word": "prolong",
+    "Mean": "vt.延长;拉长;拖延"
+  },
+  {
+    "Word": "promising",
+    "Mean": "a.有希望的;有前途的"
+  },
+  {
+    "Word": "prone",
+    "Mean": "a.俯伏的;易于...的"
+  },
+  {
+    "Word": "propaganda",
+    "Mean": "n.宣传;宣传机构"
+  },
+  {
+    "Word": "propagate",
+    "Mean": "vt.繁殖;传播;普及"
+  },
+  {
+    "Word": "propel",
+    "Mean": "vt.推进;推动"
+  },
+  {
+    "Word": "prophet",
+    "Mean": "n.预言家;先知"
+  },
+  {
+    "Word": "proposition",
+    "Mean": "n.命题;主题;提议"
+  },
+  {
+    "Word": "prose",
+    "Mean": "n.散文"
+  },
+  {
+    "Word": "prospective",
+    "Mean": "a.有希望的;预期;将来的"
+  },
+  {
+    "Word": "prototype",
+    "Mean": "n.原型;典型;范例"
+  },
+  {
+    "Word": "provocative",
+    "Mean": "a.挑衅的;刺激的;挑逗的"
+  },
+  {
+    "Word": "provoke",
+    "Mean": "vt.激怒;惹起;驱使"
+  },
+  {
+    "Word": "proximity",
+    "Mean": "n.接近;亲近"
+  },
+  {
+    "Word": "publicity",
+    "Mean": "n.公开;名声;宣传"
+  },
+  {
+    "Word": "purify",
+    "Mean": "vt.提纯;精炼(金属)"
+  },
+  {
+    "Word": "purity",
+    "Mean": "n.纯净;纯洁;纯度"
+  },
+  {
+    "Word": "pursuit",
+    "Mean": "n.追赶;追求;事务"
+  },
+  {
+    "Word": "qualification",
+    "Mean": "n.资格;限制条件"
+  },
+  {
+    "Word": "qualitative",
+    "Mean": "a.质的;定性的"
+  },
+  {
+    "Word": "quantify",
+    "Mean": "vt.确定...的数量"
+  },
+  {
+    "Word": "quantitative",
+    "Mean": "a.量的;定量的"
+  },
+  {
+    "Word": "quart",
+    "Mean": "n.夸脱(=2品脱)"
+  },
+  {
+    "Word": "quarterly",
+    "Mean": "a.季度的ad.季度地"
+  },
+  {
+    "Word": "quartz",
+    "Mean": "n.石英"
+  },
+  {
+    "Word": "queer",
+    "Mean": "a.奇怪的;古怪的"
+  },
+  {
+    "Word": "quench",
+    "Mean": "vt.熄灭;扑灭;压制"
+  },
+  {
+    "Word": "quest",
+    "Mean": "vt.寻找vi.追求"
+  },
+  {
+    "Word": "questionnaire",
+    "Mean": "n.调查表;征求意见表"
+  },
+  {
+    "Word": "quiver",
+    "Mean": "vi.(轻微地)颤动"
+  },
+  {
+    "Word": "racket",
+    "Mean": "n.球拍"
+  },
+  {
+    "Word": "radiant",
+    "Mean": "a.绚丽的;容光焕发的"
+  },
+  {
+    "Word": "radiate",
+    "Mean": "vi.发射光线;辐射"
+  },
+  {
+    "Word": "radical",
+    "Mean": "a.基本的;激进的"
+  },
+  {
+    "Word": "rage",
+    "Mean": "n.(一阵)狂怒;盛怒"
+  },
+  {
+    "Word": "raid",
+    "Mean": "n.袭击;突然搜查"
+  },
+  {
+    "Word": "rally",
+    "Mean": "n.&vt.&vi.(重新)集合"
+  },
+  {
+    "Word": "random",
+    "Mean": "n.随机a.随机的"
+  },
+  {
+    "Word": "rating",
+    "Mean": "n.等级;评定结果;收视(听)率"
+  },
+  {
+    "Word": "readily",
+    "Mean": "ad.乐意地;无困难地"
+  },
+  {
+    "Word": "realistic",
+    "Mean": "a.现实的;现实主义的"
+  },
+  {
+    "Word": "reap",
+    "Mean": "vt.&vi.收割;收获"
+  },
+  {
+    "Word": "rebellion",
+    "Mean": "n.造反;叛乱;反抗"
+  },
+  {
+    "Word": "recession",
+    "Mean": "n.(经济)衰退;不景气"
+  },
+  {
+    "Word": "recipe",
+    "Mean": "n.菜谱;烹饪法;处方"
+  },
+  {
+    "Word": "recipient",
+    "Mean": "n.接受者;接收者"
+  },
+  {
+    "Word": "reciprocal",
+    "Mean": "a.相互的;互利的"
+  },
+  {
+    "Word": "recite",
+    "Mean": "vt.&vi.背诵;朗诵"
+  },
+  {
+    "Word": "reckless",
+    "Mean": "a.粗心大意的;鲁莽的"
+  },
+  {
+    "Word": "reckon",
+    "Mean": "vi.数;算帐vt.认为"
+  },
+  {
+    "Word": "reclaim",
+    "Mean": "vt.开垦;开拓;回收"
+  },
+  {
+    "Word": "reconcile",
+    "Mean": "vt.使和好;调停"
+  },
+  {
+    "Word": "recreation",
+    "Mean": "n.消遣;娱乐活动"
+  },
+  {
+    "Word": "recruit",
+    "Mean": "vi.征募(新兵);招收n.新兵;新成员"
+  },
+  {
+    "Word": "rectangular",
+    "Mean": "a.矩形的;成直角的"
+  },
+  {
+    "Word": "rectify",
+    "Mean": "vt.纠正;调整;精馏"
+  },
+  {
+    "Word": "recur",
+    "Mean": "vi.复发;重现;再发生"
+  },
+  {
+    "Word": "recycle",
+    "Mean": "vt.使再循环;再利用;再制"
+  },
+  {
+    "Word": "redundant",
+    "Mean": "a.多余的;过多的;冗长的"
+  },
+  {
+    "Word": "refrain",
+    "Mean": "vi.抑制;制止;忍住"
+  },
+  {
+    "Word": "refreshment",
+    "Mean": "n.茶点;点心;便餐"
+  },
+  {
+    "Word": "refugee",
+    "Mean": "n.难民;流亡者"
+  },
+  {
+    "Word": "refute",
+    "Mean": "vt.驳斥;反驳;驳倒"
+  },
+  {
+    "Word": "regime",
+    "Mean": "n.政体;政权;制度"
+  },
+  {
+    "Word": "reign",
+    "Mean": "n.朝代"
+  },
+  {
+    "Word": "rejoice",
+    "Mean": "vi.欣喜;高兴"
+  },
+  {
+    "Word": "relay",
+    "Mean": "vt.分程传递;使接替"
+  },
+  {
+    "Word": "reliance",
+    "Mean": "n.信任;信赖;信心"
+  },
+  {
+    "Word": "remainder",
+    "Mean": "n.剩余(物);余数"
+  },
+  {
+    "Word": "remnant",
+    "Mean": "n.残留部分;遗迹a.剩余;残余的"
+  },
+  {
+    "Word": "renaissance",
+    "Mean": "n.复活;复兴;文艺复兴"
+  },
+  {
+    "Word": "repay",
+    "Mean": "vt.&vi.偿还;报答"
+  },
+  {
+    "Word": "repel",
+    "Mean": "vt.拒绝;使厌恶"
+  },
+  {
+    "Word": "repertoire",
+    "Mean": "n.全部;保留剧目;全部技能"
+  },
+  {
+    "Word": "replacement",
+    "Mean": "n.归还;取代;置换"
+  },
+  {
+    "Word": "representation",
+    "Mean": "n.描写;陈述;代表"
+  },
+  {
+    "Word": "reproach",
+    "Mean": "vt.&n.责备;指责"
+  },
+  {
+    "Word": "republican",
+    "Mean": "a.共和国的"
+  },
+  {
+    "Word": "resemblance",
+    "Mean": "n.相似;相似性"
+  },
+  {
+    "Word": "resent",
+    "Mean": "vt.对...不满;怨恨"
+  },
+  {
+    "Word": "reservation",
+    "Mean": "n.保留;预定;预订"
+  },
+  {
+    "Word": "reside",
+    "Mean": "vi.居住;驻扎;属于"
+  },
+  {
+    "Word": "residential",
+    "Mean": "a.住宅的;与居住有关的"
+  },
+  {
+    "Word": "resonance",
+    "Mean": "n.共鸣;回声;共振"
+  },
+  {
+    "Word": "resultant",
+    "Mean": "a.作为结果而发生的"
+  },
+  {
+    "Word": "retail",
+    "Mean": "n.零售a.零售的"
+  },
+  {
+    "Word": "retention",
+    "Mean": "n.保留;保有;保持"
+  },
+  {
+    "Word": "retort",
+    "Mean": "vt.&vi.反击;反驳"
+  },
+  {
+    "Word": "retrieve",
+    "Mean": "vt.取回;挽回;检索"
+  },
+  {
+    "Word": "retrospect",
+    "Mean": "n.回顾;追忆;回溯"
+  },
+  {
+    "Word": "revelation",
+    "Mean": "n.揭露;泄露;启示;展示"
+  },
+  {
+    "Word": "revenge",
+    "Mean": "vt.替...报仇n.报仇"
+  },
+  {
+    "Word": "revive",
+    "Mean": "vt.&vi.苏醒;复兴"
+  },
+  {
+    "Word": "revolve",
+    "Mean": "vt.&vi.(使)旋转"
+  },
+  {
+    "Word": "rig",
+    "Mean": "vt.操纵;垄断n.钻井架;塔台"
+  },
+  {
+    "Word": "rigorous",
+    "Mean": "a.(性格等)严峻的"
+  },
+  {
+    "Word": "rim",
+    "Mean": "n.边;边缘;(眼镜)框"
+  },
+  {
+    "Word": "riot",
+    "Mean": "n.&vi.骚乱;暴乱"
+  },
+  {
+    "Word": "rip",
+    "Mean": "vi.撕啐;扯破;划破"
+  },
+  {
+    "Word": "ripple",
+    "Mean": "n.涟漪;细浪;波纹"
+  },
+  {
+    "Word": "ritual",
+    "Mean": "n.仪式a.仪式的;例行公事的"
+  },
+  {
+    "Word": "robust",
+    "Mean": "a.强健的;粗野的;坚定的"
+  },
+  {
+    "Word": "romance",
+    "Mean": "n.传奇;浪漫文学"
+  },
+  {
+    "Word": "rot",
+    "Mean": "vt.烂;腐坏n.腐烂"
+  },
+  {
+    "Word": "royalty",
+    "Mean": "n.皇家;王族;皇族"
+  },
+  {
+    "Word": "rupture",
+    "Mean": "n.破裂;决裂vt.(使)破裂"
+  },
+  {
+    "Word": "safeguard",
+    "Mean": "n.保护措施;护照"
+  },
+  {
+    "Word": "saint",
+    "Mean": "n.圣徒;基督教徒"
+  },
+  {
+    "Word": "sanction",
+    "Mean": "n.制裁;批准"
+  },
+  {
+    "Word": "saturate",
+    "Mean": "vt.使浸透;使充满;使饱和"
+  },
+  {
+    "Word": "sauce",
+    "Mean": "n.调味汁;酱汁"
+  },
+  {
+    "Word": "savage",
+    "Mean": "a.未开发的;野蛮;残暴的n.野蛮人"
+  },
+  {
+    "Word": "scandal",
+    "Mean": "n.丑事;丑闻;耻辱"
+  },
+  {
+    "Word": "scar",
+    "Mean": "n.瘢痕"
+  },
+  {
+    "Word": "scared",
+    "Mean": "adj.受惊吓的"
+  },
+  {
+    "Word": "scent",
+    "Mean": "n.气味;香味;香水"
+  },
+  {
+    "Word": "sceptical",
+    "Mean": "a.怀疑的"
+  },
+  {
+    "Word": "scorn",
+    "Mean": "n.轻蔑;嘲笑vt.轻蔑"
+  },
+  {
+    "Word": "scrap",
+    "Mean": "n.碎片;废料vt.废弃"
+  },
+  {
+    "Word": "script",
+    "Mean": "n.手迹;手稿;剧本;字母表"
+  },
+  {
+    "Word": "scrutiny",
+    "Mean": "n.细看;仔细检查;监视"
+  },
+  {
+    "Word": "sculpture",
+    "Mean": "n.雕刻;雕塑;雕刻(术)"
+  },
+  {
+    "Word": "seam",
+    "Mean": "n.缝口;接缝;骨缝"
+  },
+  {
+    "Word": "sector",
+    "Mean": "n.部门;部分;扇形"
+  },
+  {
+    "Word": "seemingly",
+    "Mean": "ad.表面上;外表上"
+  },
+  {
+    "Word": "segment",
+    "Mean": "n.切片;部分;段;节"
+  },
+  {
+    "Word": "segregate",
+    "Mean": "a.分离的;被隔离的vt.使分离;使隔离"
+  },
+  {
+    "Word": "seminar",
+    "Mean": "n.研究会;讨论发表会"
+  },
+  {
+    "Word": "senator",
+    "Mean": "n.参议员;评议员"
+  },
+  {
+    "Word": "sensation",
+    "Mean": "n.感觉;知觉;轰动"
+  },
+  {
+    "Word": "sentiment",
+    "Mean": "n.感情;情操;情绪"
+  },
+  {
+    "Word": "sexual",
+    "Mean": "a.性的;性别的"
+  },
+  {
+    "Word": "shabby",
+    "Mean": "a.褴褛的;破旧的"
+  },
+  {
+    "Word": "shaft",
+    "Mean": "n.(工具的)柄;杆状物"
+  },
+  {
+    "Word": "shatter",
+    "Mean": "vt.粉碎;破碎;毁坏"
+  },
+  {
+    "Word": "sheer",
+    "Mean": "a.纯粹的;全然的;陡峭的"
+  },
+  {
+    "Word": "shipment",
+    "Mean": "n.装货;装载的货物"
+  },
+  {
+    "Word": "shrewd",
+    "Mean": "a.精明的;敏锐的;机灵的"
+  },
+  {
+    "Word": "shrug",
+    "Mean": "vt.&vi.耸(肩)n.耸肩"
+  },
+  {
+    "Word": "shutter",
+    "Mean": "n.百叶窗;(相机)快门"
+  },
+  {
+    "Word": "shuttle",
+    "Mean": "n.(织机的)梭"
+  },
+  {
+    "Word": "signify",
+    "Mean": "vt.表示;意味着"
+  },
+  {
+    "Word": "silicon",
+    "Mean": "n.硅(旧名矽)"
+  },
+  {
+    "Word": "simulate",
+    "Mean": "vt.模拟;假装;模仿"
+  },
+  {
+    "Word": "simultaneous",
+    "Mean": "a.同时的;同时存在的"
+  },
+  {
+    "Word": "sin",
+    "Mean": "n.罪;罪孽vi.犯罪"
+  },
+  {
+    "Word": "situated",
+    "Mean": "a.位于...的"
+  },
+  {
+    "Word": "skeleton",
+    "Mean": "n.骨骼;骷髅;骨架"
+  },
+  {
+    "Word": "skeptical",
+    "Mean": "a.怀疑的;多疑的"
+  },
+  {
+    "Word": "skip",
+    "Mean": "vi.跳;跳绳;略过"
+  },
+  {
+    "Word": "slack",
+    "Mean": "a.松弛的;萧条的;懈怠的;vt.使松弛"
+  },
+  {
+    "Word": "slap",
+    "Mean": "vt.掴;拍n.巴掌;拍"
+  },
+  {
+    "Word": "slaughter",
+    "Mean": "vt.&n.屠杀;屠宰"
+  },
+  {
+    "Word": "slim",
+    "Mean": "a.细长的;微小的"
+  },
+  {
+    "Word": "slogan",
+    "Mean": "n.标语;口号"
+  },
+  {
+    "Word": "slot",
+    "Mean": "n.缝;狭槽;位置;职位"
+  },
+  {
+    "Word": "slum",
+    "Mean": "n.贫民窟;贫民区"
+  },
+  {
+    "Word": "smash",
+    "Mean": "vt.打碎;打破;粉碎"
+  },
+  {
+    "Word": "smuggle",
+    "Mean": "vt.私运vi.走私"
+  },
+  {
+    "Word": "snack",
+    "Mean": "n.快餐;小吃"
+  },
+  {
+    "Word": "snap",
+    "Mean": "vt.猛咬;突然折断"
+  },
+  {
+    "Word": "snatch",
+    "Mean": "n.抢夺;攫取;片段vt.夺取;攫取"
+  },
+  {
+    "Word": "soar",
+    "Mean": "vi.猛增;高耸;高飞;翱翔"
+  },
+  {
+    "Word": "sober",
+    "Mean": "a.清醒的;适度的"
+  },
+  {
+    "Word": "sociology",
+    "Mean": "n.社会学"
+  },
+  {
+    "Word": "software",
+    "Mean": "n.(计算机的)软件"
+  },
+  {
+    "Word": "solidarity",
+    "Mean": "n.团结;休戚相关"
+  },
+  {
+    "Word": "solitary",
+    "Mean": "n.独居者a.孤独的;独居的"
+  },
+  {
+    "Word": "solo",
+    "Mean": "n.独唱;独奏;独唱曲"
+  },
+  {
+    "Word": "sovereign",
+    "Mean": "n.君主a.统治的"
+  },
+  {
+    "Word": "spacious",
+    "Mean": "a.广阔的;广大的"
+  },
+  {
+    "Word": "sparkle",
+    "Mean": "vi.发火花vt.使闪耀"
+  },
+  {
+    "Word": "spatial",
+    "Mean": "a.空间的;占据空间的"
+  },
+  {
+    "Word": "speciality",
+    "Mean": "n.专业;特长;特产"
+  },
+  {
+    "Word": "species",
+    "Mean": "n.种;物种;种类"
+  },
+  {
+    "Word": "specifically",
+    "Mean": "ad.特定的;明确的"
+  },
+  {
+    "Word": "specification",
+    "Mean": "n.载明;详述;规格"
+  },
+  {
+    "Word": "spectacle",
+    "Mean": "n.场面;景象;奇观"
+  },
+  {
+    "Word": "spectacular",
+    "Mean": "a.公开展示的;惊人的n.展览物"
+  },
+  {
+    "Word": "spectator",
+    "Mean": "n.参观者;观众"
+  },
+  {
+    "Word": "spectrum",
+    "Mean": "n.系列;范围;波谱"
+  },
+  {
+    "Word": "speculate",
+    "Mean": "vi.思索;沉思;投机"
+  },
+  {
+    "Word": "spiral",
+    "Mean": "a.螺旋(形)的;盘旋的"
+  },
+  {
+    "Word": "splash",
+    "Mean": "vt.溅泼vi.泼水n.溅"
+  },
+  {
+    "Word": "spokesman",
+    "Mean": "n.发言人;代言人"
+  },
+  {
+    "Word": "sponge",
+    "Mean": "n.海绵"
+  },
+  {
+    "Word": "spontaneous",
+    "Mean": "a.自发的;本能的"
+  },
+  {
+    "Word": "spouse",
+    "Mean": "n.配偶;夫妻"
+  },
+  {
+    "Word": "spy",
+    "Mean": "n.间谍;特务vt.侦察"
+  },
+  {
+    "Word": "stabilize",
+    "Mean": "vt.使稳定;使坚固vi.稳定;安定"
+  },
+  {
+    "Word": "stagger",
+    "Mean": "vi.蹒跚vt.使摇晃"
+  },
+  {
+    "Word": "staircase",
+    "Mean": "n.楼梯;楼梯间"
+  },
+  {
+    "Word": "stall",
+    "Mean": "n.货摊;书摊;厩"
+  },
+  {
+    "Word": "startle",
+    "Mean": "vt.使大吃一惊n.吃惊"
+  },
+  {
+    "Word": "stationary",
+    "Mean": "a.固定的;静止不动的"
+  },
+  {
+    "Word": "statistics",
+    "Mean": "n.统计;统计数字"
+  },
+  {
+    "Word": "stereo",
+    "Mean": "n.立体声a.立体声的"
+  },
+  {
+    "Word": "stereotype",
+    "Mean": "n.陈腔滥调;老套"
+  },
+  {
+    "Word": "stern",
+    "Mean": "n.艉;船尾;臀部"
+  },
+  {
+    "Word": "stimulus",
+    "Mean": "n.刺激;激励;刺激品"
+  },
+  {
+    "Word": "stitch",
+    "Mean": "n.一针;缝线vt.缝"
+  },
+  {
+    "Word": "straightforward",
+    "Mean": "a.老实的ad.坦率地"
+  },
+  {
+    "Word": "strategic",
+    "Mean": "a.战略的;战略上的"
+  },
+  {
+    "Word": "streamline",
+    "Mean": "n.流线;流线型"
+  },
+  {
+    "Word": "stride",
+    "Mean": "vi.大踏步走n.大步"
+  },
+  {
+    "Word": "striking",
+    "Mean": "a.显著的;惊人的"
+  },
+  {
+    "Word": "strive",
+    "Mean": "vi.努力;奋斗;力求"
+  },
+  {
+    "Word": "stubborn",
+    "Mean": "a.顽固的;顽强的"
+  },
+  {
+    "Word": "studio",
+    "Mean": "n.工作室;播音室"
+  },
+  {
+    "Word": "stumble",
+    "Mean": "vi.绊倒;犯错误"
+  },
+  {
+    "Word": "sturdy",
+    "Mean": "a.坚定的;牢固的"
+  },
+  {
+    "Word": "subjective",
+    "Mean": "a.主观的;个人的"
+  },
+  {
+    "Word": "subordinate",
+    "Mean": "a.下级的;辅助的"
+  },
+  {
+    "Word": "subscribe",
+    "Mean": "vi.订购;认购;预订"
+  },
+  {
+    "Word": "subsidiary",
+    "Mean": "a.辅助的;补充的"
+  },
+  {
+    "Word": "subsidy",
+    "Mean": "n.补助金;津贴"
+  },
+  {
+    "Word": "subtle",
+    "Mean": "a.微妙的;精巧的"
+  },
+  {
+    "Word": "successor",
+    "Mean": "n.继承人;继任者"
+  },
+  {
+    "Word": "sue",
+    "Mean": "vt.控告;请愿"
+  },
+  {
+    "Word": "suffice",
+    "Mean": "vi.足够;有能力"
+  },
+  {
+    "Word": "suicide",
+    "Mean": "n.&vi.&vt.自杀"
+  },
+  {
+    "Word": "suitcase",
+    "Mean": "n.小提箱;衣箱"
+  },
+  {
+    "Word": "summit",
+    "Mean": "n.顶点;最高点;极度"
+  },
+  {
+    "Word": "summon",
+    "Mean": "vt.召唤;鼓起(勇气)"
+  },
+  {
+    "Word": "superb",
+    "Mean": "a.壮丽的;超等的"
+  },
+  {
+    "Word": "superiority",
+    "Mean": "n.优越(性);优势"
+  },
+  {
+    "Word": "supersonic",
+    "Mean": "a.超声的;超声速的"
+  },
+  {
+    "Word": "supervise",
+    "Mean": "vt.&vi.监督;监视"
+  },
+  {
+    "Word": "supplementary",
+    "Mean": "a.补足;补充;追加的"
+  },
+  {
+    "Word": "suppress",
+    "Mean": "vt.镇压;抑制;隐瞒"
+  },
+  {
+    "Word": "surge",
+    "Mean": "n.vt.激增;奔放;汹涌;澎湃"
+  },
+  {
+    "Word": "surgeon",
+    "Mean": "n.外科医师;军医"
+  },
+  {
+    "Word": "surpass",
+    "Mean": "vt.超过;超越;胜过21"
+  },
+  {
+    "Word": "surplus",
+    "Mean": "n.过剩;剩余(物资)"
+  },
+  {
+    "Word": "survival",
+    "Mean": "n.幸存;残存;幸存者"
+  },
+  {
+    "Word": "susceptible",
+    "Mean": "a.易受影响的;易感动的"
+  },
+  {
+    "Word": "suspension",
+    "Mean": "n.悬挂;暂停;中止"
+  },
+  {
+    "Word": "suspicious",
+    "Mean": "a.可疑的;猜疑的"
+  },
+  {
+    "Word": "swamp",
+    "Mean": "n.沼泽;沼泽地"
+  },
+  {
+    "Word": "symmetry",
+    "Mean": "n.对称(性);匀称"
+  },
+  {
+    "Word": "symphony",
+    "Mean": "n.交响乐;交响乐团"
+  },
+  {
+    "Word": "symposium",
+    "Mean": "n.酒会;座谈会"
+  },
+  {
+    "Word": "symptom",
+    "Mean": "n.症状;征候;征兆"
+  },
+  {
+    "Word": "synthesis",
+    "Mean": "n.合成;综合;综合物"
+  },
+  {
+    "Word": "tablet",
+    "Mean": "n.碑;匾;药片"
+  },
+  {
+    "Word": "tackle",
+    "Mean": "vt.解决;对付n.用具"
+  },
+  {
+    "Word": "tactics",
+    "Mean": "n.策略;战术;兵法"
+  },
+  {
+    "Word": "tangle",
+    "Mean": "vt.使缠结;使纠缠"
+  },
+  {
+    "Word": "tar",
+    "Mean": "n.柏油;焦油"
+  },
+  {
+    "Word": "tariff",
+    "Mean": "n.关税;价格表;收费表vt.课以关税"
+  },
+  {
+    "Word": "tease",
+    "Mean": "vt.逗乐;戏弄;强求"
+  },
+  {
+    "Word": "temperament",
+    "Mean": "n.气质;性质;性情"
+  },
+  {
+    "Word": "tempo",
+    "Mean": "n.拍子;速率;节奏"
+  },
+  {
+    "Word": "tenant",
+    "Mean": "n.承租人;房客;佃户"
+  },
+  {
+    "Word": "tentative",
+    "Mean": "n.试验;假设a.试验性;暂时的"
+  },
+  {
+    "Word": "terminate",
+    "Mean": "vt.&vi.停止;终止"
+  },
+  {
+    "Word": "terrace",
+    "Mean": "n.平台;阳台;露台"
+  },
+  {
+    "Word": "terrain",
+    "Mean": "n.地带;地域;范围;领域"
+  },
+  {
+    "Word": "terrific",
+    "Mean": "a.可怕的;极大的"
+  },
+  {
+    "Word": "terrify",
+    "Mean": "vt.使恐怖;使惊吓"
+  },
+  {
+    "Word": "testify",
+    "Mean": "v.证明;证实;作证"
+  },
+  {
+    "Word": "testimony",
+    "Mean": "n.证言;证据;声明"
+  },
+  {
+    "Word": "texture",
+    "Mean": "n.质地;纹理"
+  },
+  {
+    "Word": "thanksgiving",
+    "Mean": "n.感恩节"
+  },
+  {
+    "Word": "theft",
+    "Mean": "n.盗窃;偷窃(行为)"
+  },
+  {
+    "Word": "theme",
+    "Mean": "n.题目;词干;主旋律"
+  },
+  {
+    "Word": "therapy",
+    "Mean": "n.治疗"
+  },
+  {
+    "Word": "thereafter",
+    "Mean": "ad.此后;以后"
+  },
+  {
+    "Word": "thermal",
+    "Mean": "a.热的;温泉的"
+  },
+  {
+    "Word": "thesis",
+    "Mean": "n.论题;论点;论文"
+  },
+  {
+    "Word": "thirst",
+    "Mean": "n.渴;口渴;渴望"
+  },
+  {
+    "Word": "thorn",
+    "Mean": "n.刺;棘;荆棘;蒺藜"
+  },
+  {
+    "Word": "threshold",
+    "Mean": "n.门槛;入门;开端"
+  },
+  {
+    "Word": "thrill",
+    "Mean": "vt.&vi.(使)激动"
+  },
+  {
+    "Word": "tick",
+    "Mean": "n.滴答声;记号"
+  },
+  {
+    "Word": "tile",
+    "Mean": "n.瓦片;瓷砖;贴砖"
+  },
+  {
+    "Word": "tilt",
+    "Mean": "vt.&vi.(使)倾斜"
+  },
+  {
+    "Word": "timber",
+    "Mean": "n.木材;木料"
+  },
+  {
+    "Word": "timely",
+    "Mean": "a.及时的;适时的"
+  },
+  {
+    "Word": "timid",
+    "Mean": "a.胆怯的;羞怯的"
+  },
+  {
+    "Word": "token",
+    "Mean": "n.象征;辅币;纪念品"
+  },
+  {
+    "Word": "tolerant",
+    "Mean": "a.容忍的;有耐力的"
+  },
+  {
+    "Word": "toss",
+    "Mean": "vi.翻来复去"
+  },
+  {
+    "Word": "tow",
+    "Mean": "vt.&n.拖引;牵引"
+  },
+  {
+    "Word": "tract",
+    "Mean": "n.传单;小册子;大片(土地或森林)"
+  },
+  {
+    "Word": "tragic",
+    "Mean": "a.悲剧性的;悲惨的"
+  },
+  {
+    "Word": "trait",
+    "Mean": "n.显著特点;特性"
+  },
+  {
+    "Word": "transaction",
+    "Mean": "n.处理;交易;和解"
+  },
+  {
+    "Word": "transcend",
+    "Mean": "vt.超越;胜过"
+  },
+  {
+    "Word": "transient",
+    "Mean": "a.短暂的;转瞬即逝的;临时的;暂住的"
+  },
+  {
+    "Word": "transit",
+    "Mean": "n.运输a.中转的;过境的"
+  },
+  {
+    "Word": "transition",
+    "Mean": "n.转变;变迁;过渡"
+  },
+  {
+    "Word": "transplant",
+    "Mean": "vt.&vi.移植;移种"
+  },
+  {
+    "Word": "traverse",
+    "Mean": "vt.横越;横切;横断"
+  },
+  {
+    "Word": "trench",
+    "Mean": "n.深沟;壕沟;战壕"
+  },
+  {
+    "Word": "tribe",
+    "Mean": "n.部落;宗族"
+  },
+  {
+    "Word": "tribute",
+    "Mean": "n.贡物;献礼;贡献"
+  },
+  {
+    "Word": "trifle",
+    "Mean": "n.小事;琐事;少许"
+  },
+  {
+    "Word": "trigger",
+    "Mean": "n.扳机vt.触发;引起"
+  },
+  {
+    "Word": "triple",
+    "Mean": "a.三倍的;三方的vt.使增至三倍"
+  },
+  {
+    "Word": "trivial",
+    "Mean": "a.琐碎的;平常的"
+  },
+  {
+    "Word": "tuck",
+    "Mean": "vt.折短;卷起;塞"
+  },
+  {
+    "Word": "tug",
+    "Mean": "vi.用力拖n.猛拉;拖"
+  },
+  {
+    "Word": "tuition",
+    "Mean": "n.教;教诲;学费"
+  },
+  {
+    "Word": "tumble",
+    "Mean": "vi.摔倒;跌倒;打滚"
+  },
+  {
+    "Word": "turbulent",
+    "Mean": "a.骚动的;骚乱的"
+  },
+  {
+    "Word": "turnover",
+    "Mean": "n.人员调整;营业额;成交量"
+  },
+  {
+    "Word": "tutor",
+    "Mean": "vt.教;指导"
+  },
+  {
+    "Word": "ultraviolet",
+    "Mean": "a.紫外的n.紫外线辐射"
+  },
+  {
+    "Word": "unanimous",
+    "Mean": "a.(全体)一致的"
+  },
+  {
+    "Word": "underestimate",
+    "Mean": "vt.低估;看轻"
+  },
+  {
+    "Word": "underlying",
+    "Mean": "a.在下的;含蓄的;潜在的"
+  },
+  {
+    "Word": "undermine",
+    "Mean": "vt.渐渐破坏;暗中破坏;侵蚀基础"
+  },
+  {
+    "Word": "unemployment",
+    "Mean": "n.失业;失业人数"
+  },
+  {
+    "Word": "unfold",
+    "Mean": "vt.展开vi.呈现"
+  },
+  {
+    "Word": "unify",
+    "Mean": "vt.统一;使成一体"
+  },
+  {
+    "Word": "update",
+    "Mean": "vt.更新;使现代化"
+  },
+  {
+    "Word": "upgrade",
+    "Mean": "vt.使升级;提升"
+  },
+  {
+    "Word": "uphold",
+    "Mean": "vt.举起;支撑;赞成"
+  },
+  {
+    "Word": "validity",
+    "Mean": "n.有效;效力;正确"
+  },
+  {
+    "Word": "valve",
+    "Mean": "n.阀;阀门;电子管"
+  },
+  {
+    "Word": "vegetation",
+    "Mean": "n.植物;草木"
+  },
+  {
+    "Word": "veil",
+    "Mean": "n.面纱;面罩;遮蔽物"
+  },
+  {
+    "Word": "vein",
+    "Mean": "n.静脉;血管;矿脉"
+  },
+  {
+    "Word": "vent",
+    "Mean": "n.排放口;通风口vt.发泄;表达"
+  },
+  {
+    "Word": "ventilate",
+    "Mean": "vt.使通风;使换气"
+  },
+  {
+    "Word": "verbal",
+    "Mean": "a.言辞的;文字的;口头的;动词的"
+  },
+  {
+    "Word": "verdict",
+    "Mean": "n.裁决;结论;定论;判断"
+  },
+  {
+    "Word": "verge",
+    "Mean": "n.边缘;边界;界限"
+  },
+  {
+    "Word": "versatile",
+    "Mean": "a.多方面的;通用的"
+  },
+  {
+    "Word": "verse",
+    "Mean": "n.诗;韵文;诗行"
+  },
+  {
+    "Word": "versus",
+    "Mean": "prep.(比赛等中)对"
+  },
+  {
+    "Word": "veto",
+    "Mean": "n.否决;否决权;禁止"
+  },
+  {
+    "Word": "vicinity",
+    "Mean": "n.邻近;附近地区"
+  },
+  {
+    "Word": "vicious",
+    "Mean": "a.邪恶的;恶性的"
+  },
+  {
+    "Word": "violate",
+    "Mean": "vt.违犯;违背;侵犯"
+  },
+  {
+    "Word": "virgin",
+    "Mean": "n.处女a.处女的"
+  },
+  {
+    "Word": "virtual",
+    "Mean": "a.实际上的;实质上的"
+  },
+  {
+    "Word": "virus",
+    "Mean": "n.病毒"
+  },
+  {
+    "Word": "visualize",
+    "Mean": "vt.使看得见;具体化;想象;设想"
+  },
+  {
+    "Word": "vocal",
+    "Mean": "a.直言不讳的;嗓音的;有声的"
+  },
+  {
+    "Word": "vocational",
+    "Mean": "a.职业的"
+  },
+  {
+    "Word": "void",
+    "Mean": "a.空的;无效的"
+  },
+  {
+    "Word": "volunteer",
+    "Mean": "n.志愿者vt.志愿"
+  },
+  {
+    "Word": "vulgar",
+    "Mean": "a.粗俗的;庸俗的"
+  },
+  {
+    "Word": "vulnerable",
+    "Mean": "a.易受伤害;攻击的;脆弱的"
+  },
+  {
+    "Word": "wallet",
+    "Mean": "n.钱包;皮夹子"
+  },
+  {
+    "Word": "ward",
+    "Mean": "n.病房;病室;监房"
+  },
+  {
+    "Word": "warehouse",
+    "Mean": "n.仓库;货栈"
+  },
+  {
+    "Word": "warfare",
+    "Mean": "n.战争;战争状态"
+  },
+  {
+    "Word": "warrant",
+    "Mean": "n.正当理由;委任状;许可证"
+  },
+  {
+    "Word": "watertight",
+    "Mean": "a.不漏水的;防水的"
+  },
+  {
+    "Word": "watt",
+    "Mean": "n.瓦(特)"
+  },
+  {
+    "Word": "weary",
+    "Mean": "a.疲倦的vt.使疲乏"
+  },
+  {
+    "Word": "web",
+    "Mean": "n.网;丝;网状物"
+  },
+  {
+    "Word": "wedge",
+    "Mean": "n.楔vt.楔入;挤入"
+  },
+  {
+    "Word": "whereas",
+    "Mean": "conj.而;却;反之"
+  },
+  {
+    "Word": "whereby",
+    "Mean": "ad.靠什么;靠那个"
+  },
+  {
+    "Word": "whirl",
+    "Mean": "vt.使回旋vi.&n.回旋"
+  },
+  {
+    "Word": "withhold",
+    "Mean": "vt.拒绝;不给;使停止;阻挡"
+  },
+  {
+    "Word": "wrench",
+    "Mean": "vt.拧;扭伤n.拧"
+  },
+  {
+    "Word": "wretched",
+    "Mean": "a.不幸的;卑鄙的"
+  },
+  {
+    "Word": "wrinkle",
+    "Mean": "n.皱纹vt.使起皱纹"
+  },
+  {
+    "Word": "yacht",
+    "Mean": "n.游艇;快艇"
+  },
+  {
+    "Word": "yell",
+    "Mean": "vi.叫喊"
+  },
+  {
+    "Word": "yoke",
+    "Mean": "n.轭;牛轭;枷锁"
+  },
+  {
+    "Word": "youngster",
+    "Mean": "n.儿童;少年;年轻人"
+  },
+  {
+    "Word": "zinc",
+    "Mean": "n.锌"
+  }
+]
