@@ -22,4 +22,4 @@ HDU我爱记单词脚本 [依赖Fiddler/模拟器]
 
 5.在 **FiddlerScript** 中搜索 **change.js** 中第一句，并把搜索到的函数替换
 
-6.使用
+6.使用 **GetAnswerPlace.py** 获取模拟器全屏时各选项位置
