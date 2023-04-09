@@ -286,6 +286,20 @@ for i in Q_data['list']:
     QuestionNumber += 1
     word = i['title']
     print('[+]', QuestionNumber, word)
+    for x in main_data:
+        if x['Q'] == word:
+            if i['answerA'] == x['A']:
+                answer = 'A'
+                result = 1
+            elif i['answerB'] == x['A']:
+                answer = 'B'
+                result = 1
+            elif i['answerC'] == x['A']:
+                answer = 'C'
+                result = 1
+            elif i['answerD'] == x['A']:
+                answer = 'D'
+                result = 1
     if i['cet'] == 4:
         if not is_Chinese(word):
             for j in cet4_data:
