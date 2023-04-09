@@ -274,6 +274,8 @@ with open('I love Words/cet-4 copy.json', 'r', encoding='utf-8') as cet4_json:
     cet4_data = json.load(cet4_json)
 with open('I love Words/cet-6.json', 'r', encoding='utf-8') as cet6_json:
     cet6_data = json.load(cet6_json)
+with open('I love Words/New.json', 'r', encoding='utf-8') as main:
+    main_data = json.load(main)
 with open('I love Words/questions.json', 'r', encoding='utf-8') as Q:
     Q_data = json.load(Q)
 # print(Q_data)
